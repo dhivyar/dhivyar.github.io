@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          <mark>R</mark>, <mark>R Studio</mark>, <mark>R Markdown</mark>, <mark>R Shiny</mark>, <mark>Python</mark>, <mark>Pandas</mark>, <mark>Scikit- Learn</mark>, <mark>Jupyter Notebook</mark>,<mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>), <mark>Git</mark>, <mark>GitHub</mark>, <mark>Version Control</mark>, <mark>ArcGIS</mark>, <mark>Tableau</mark>, <mark>Carto</mark>, <mark>ggplot2</mark>, <mark>dplyr</mark>, <mark>caret</mark>, <mark>reshape2</mark>, <mark>plyr</mark>, <mark>Amazon EC2</mark>, <mark>Redshift</mark>, <mark>AWS Lambda</mark>, <mark>Azure Machine Learning Studio</mark>, <mark>Azure Notebooks</mark>, Workspaces</mark>, <mark>Compute Instances</mark>, <mark>Azure Functions</mark>, <mark>Machine Learning</mark>- <mark>Linear/ Logistic Regression</mark>, <mark>Gradient Boosting Trees</mark>, <mark>Random Forests</mark>, <mark>Decision Trees</mark>, <mark>SVM</mark>, <mark>NLP</mark>, <mark>Recommendation Engines</mark>,
+          <mark>R</mark> <mark>R Studio</mark> <mark>R Markdown</mark> <mark>R Shiny</mark> <mark>Python</mark> <mark>Pandas</mark> <mark>Scikit- Learn</mark> <mark>Jupyter Notebook</mark> <mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>) <mark>Git</mark> <mark>GitHub</mark> <mark>Version Control</mark> <mark>ArcGIS</mark> <mark>Tableau</mark> <mark>Carto</mark> <mark>ggplot2</mark> <mark>dplyr</mark> <mark>caret</mark> <mark>reshape2</mark> <mark>plyr</mark> <mark>Amazon EC2</mark> <mark>Redshift</mark> <mark>AWS Lambda</mark> <mark>Azure Machine Learning Studio</mark> <mark>Azure Notebooks</mark> <mark>Azure Workspaces</mark> <mark>Compute Instances</mark> <mark>Azure Functions</mark> <mark>Machine Learning</mark> <mark>Linear/ Logistic Regression</mark> <mark>Gradient Boosting Trees</mark> <mark>Random Forests</mark> <mark>Decision Trees</mark> <mark>SVM</mark> <mark>NLP</mark> <mark>Recommendation Engines</mark>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -83,36 +83,39 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Mayor's Office of the Chief Technology Officer, City of New York
+        link: https://www1.nyc.gov/assets/cto/#/
+        # link_text: nyc.gov/cto
+        sub_title: NYC[X] INNOVATION FELLOW (DATA SCIENTIST)
+        caption: August 2020 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+         We use technology, innovation, AI, design, research, policy, connectivity and collaboration to make NYC future ready.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            As an NYC[x] Innovation Fellow with the City of New York, I partnered with various city agencies to rapidly solve NYC’s problems with data.
+‣ Partnered with the Mayor’s Office of Criminal Justice and developed the Hate Crime Index, a first-of-its-kind data product and algorithm built for NYC that scores the propensity of hate crime occurrences in the city. The index captures ~75% of all hate crime occurrences in the city by targeting ~50% of the police precincts.
+‣ Partnered with the Mayor’s Office of Operations and built the NYC block sampling and route optimization algorithms for the NYC Street Cleanliness and Scorecard program. The algorithms facilitated and operationalized the collection of cleanliness data points for 17000+ additional blocks in the city annually, a 12x improvement for an effort designed to better the cleanliness-based quality of life for all New Yorkers.
+‣ Built a Grant Funding Determination Engine using Machine Learning for the Department of Cultural Affairs, the largest municipal funder of culture in the US that determines $28 million in funds disbursed for ~2000 cultural organizations in NYC.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: IIM Calcutta (Top B- School in Asia)
+        title: IIM Calcutta
         caption: 2012 - 2014
         sub_title: Executive Program in Global Business Management (EPGBM)
         quote: >
-          Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a public business school located in Joka, Kolkata, West Bengal, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the government of India in 2017. 
+          Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a top business school in Asia located in Joka, Kolkata, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the Government of India in 2017. 
         description: | # this will include new lines to allow paragraphs
           During my time at IIM Calcutta I secured "Excellent" grade in 8 out of 12 modules.
 
       - layout: left
-        title: College of Engineering Guindy, Anna University (Asia's Oldest Technical Institution)
+        title: College of Engineering Guindy, Anna University
         caption: 2009 - 2011
         sub_title: MASTERS IN INDUSTRIAL ENGINEERING (M.E.)
         quote: >
-          Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a public business school located in Joka, Kolkata, West Bengal, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the government of India in 2017. IIM Calcutta is one of only three triple accredited business schools in India, and the first to get the recognition. It is also the only business school in India which is a part of the CEMS Global Alliance in Management Education.
+          The College of Engineering, Guindy (CEG) is a public engineering college in Chennai, India and is Asia's oldest technical institution, founded in 1794. It is also the oldest technical institution to be established outside Europe.
         description: | # this will include new lines to allow paragraphs
-          CGPA: 8.91/ 10
+          During my time at CEG I secured a CGPA of 8.91/ 10.
 
 
   - title: A Little More About Me
