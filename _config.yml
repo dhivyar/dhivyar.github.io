@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Dhivya Ravindran
+title: Senior Data Scientist
+email: dhivyaravindran@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: dhivyahandle
+github_username:  maisonml
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: dhivyar
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Dhivya. Am a business-oriented Senior Data Scientist with ~7 years of full-time industry experience and 1+ years of pro bono experience in full stack Data Science, Machine Learning, Data Analytics and Software Engineering- starting with data collection from structured, semi-structured and un-structured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  My specialties include: <mark>Product Data Science</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Banking</mark> and <mark>Start-ups</mark>
 
 content:
   - title: Projects # Title for the section
@@ -90,15 +90,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: IIM Calcutta (Top B- School in Asia)
+        caption: 2012 - 2014
+        sub_title: Executive Program in Global Business Management (EPGBM)
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a public business school located in Joka, Kolkata, West Bengal, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the government of India in 2017. IIM Calcutta is one of only three triple accredited business schools in India, and the first to get the recognition. It is also the only business school in India which is a part of the CEMS Global Alliance in Management Education.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at IIM Calcutta I secured "Excellent" grade in 8 out of 12 modules.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
