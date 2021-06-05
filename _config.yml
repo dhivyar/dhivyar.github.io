@@ -85,13 +85,37 @@ content:
       - layout: left
         title: Mayor's Office of the Chief Technology Officer, City of New York
         link: https://www1.nyc.gov/assets/cto/#/
-        # link_text: nyc.gov/cto
+        link_text: nyc.gov/cto
         sub_title: NYC[X] INNOVATION FELLOW (DATA SCIENTIST)
-        caption: August 2020 - Present
+        caption: August 2020 - Present PRO BONO
         quote: >
          We use technology, innovation, AI, design, research, policy, connectivity and collaboration to make NYC future ready.
         description: | # this will include new lines to allow paragraphs
-            As an NYC[x] Innovation Fellow with the City of New York, I partnered with various city agencies to rapidly solve NYC’s problems with data. * Partnered with the Mayor’s Office of Criminal Justice and developed the Hate Crime Index, a first-of-its-kind data product and algorithm built for NYC that scores the propensity of hate crime occurrences in the city. The index captures ~75% of all hate crime occurrences in the city by targeting ~50% of the police precincts. * Partnered with the Mayor’s Office of Operations and built the NYC block sampling and route optimization algorithms for the NYC Street Cleanliness and Scorecard program. The algorithms facilitated and operationalized the collection of cleanliness data points for 17000+ additional blocks in the city annually, a 12x improvement for an effort designed to better the cleanliness-based quality of life for all New Yorkers. * Built a Grant Funding Determination Engine using Machine Learning for the Department of Cultural Affairs, the largest municipal funder of culture in the US that determines $28 million in funds disbursed for ~2000 cultural organizations in NYC.
+            As an NYC[x] Innovation Fellow with the City of New York, I partnered with various city agencies to rapidly solve NYC’s problems with data. # * Partnered with the Mayor’s Office of Criminal Justice and developed the Hate Crime Index, a first-of-its-kind data product and algorithm built for NYC that scores the propensity of hate crime occurrences in the city. The index captures ~75% of all hate crime occurrences in the city by targeting ~50% of the police precincts. | # * Partnered with the Mayor’s Office of Operations and built the NYC block sampling and route optimization algorithms for the NYC Street Cleanliness and Scorecard program. The algorithms facilitated and operationalized the collection of cleanliness data points for 17000+ additional blocks in the city annually, a 12x improvement for an effort designed to better the cleanliness-based quality of life for all New Yorkers. * Built a Grant Funding Determination Engine using Machine Learning for the Department of Cultural Affairs, the largest municipal funder of culture in the US that determines $28 million in funds disbursed for ~2000 cultural organizations in NYC.
+
+      - layout: left
+        title: U. S. Digital Response
+        link: https://www.usdigitalresponse.org/
+        link_text: usdigitalresponse.org
+        sub_title: FULL STACK DATA SCIENTIST
+        caption: April 2020 - Present PRO BONO
+        quote: >
+         We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
+        description: | # this will include new lines to allow paragraphs
+            As a Pro- Bono Data Scientist, I built a first-of-its-kind immigrant services directory that centralizes services for 3 million immigrants living in Los Angeles County.
+
+      - layout: left
+        title: BankBazaar.Com
+        link: https://www.bankbazaar.com/
+        link_text: bankbazaar.com
+        sub_title: SENIOR DATA SCIENTIST
+        caption: February 2016 - February 2018 FULL TIME
+        quote: >
+         BankBazaar.com is the world's first neutral online marketplace for instant customized rate quotes on loans and credit cards. Shop for loans & cards just like you buy everything else now - online.
+        description: | # this will include new lines to allow paragraphs
+            As a Senior Data Scientist, my job role had me build and manage projects at multiple touch-points within BankBazaar.Com- from the core product to operations and marketing. | * Built the world's first Interest Rate Deviation Engine using Machine Learning that predicts the best customers that can be made eligible for an interest rate cut for Personal Loans. The application rate of customers doubled with rate deviation and the approval rate improved by ~5%. Built Partner Preference Engines for Credit Cards and Personal Loans that predicts the customer's ‘applying’ behavior and the bank's ‘approval’ behavior. These Machine Learning models are used in the ranking and ordering of product offers and the offer position improved by ~19% for applied offers and by 22% for approved offers. | * Built Application Prioritization Engines using Machine Learning that enables for efficient customer life-cycle. This was done by predicting an application’s approval probability for Credit Cards and loan disbursal probability for Mortgages, Auto Loans and Personal Loans. The engines capture 80% of all approvals/ disbursals by processing just 50% of applications. | * Designed and tracked multiple targeted and personalized campaigns for Auto Loans using exploratory analyses. The campaigns drove an additional ~6% application volume to the existing Auto Loan portfolio. | * Enhanced customer data assets by mining unstructured data sources. The data were
+classified into different types of transactions using Natural Language Processing techniques. | * Built Credit Risk Engines using Machine Learning Algorithms for unsecured credit products that will assess the credit risk of serious delinquency associated with a customer for a particular credit product. | * Built a Product Recommender Engine that models on the customers’ historic online behavior data to predict the customers that had the highest propensity to apply for a credit card.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -110,7 +134,7 @@ content:
         caption: 2009 - 2011
         sub_title: MASTERS IN INDUSTRIAL ENGINEERING (M.E.)
         quote: >
-          The College of Engineering, Guindy (CEG) is a public engineering college in Chennai, India and is Asia's oldest technical institution, founded in 1794. It is also the oldest technical institution to be established outside Europe.
+          College of Engineering, Guindy (CEG) is a public engineering college in Chennai, India and is Asia's oldest technical institution, founded in 1794. It is also the oldest technical institution to be established outside Europe.
         description: | # this will include new lines to allow paragraphs
           During my time at CEG I secured a CGPA of 8.91/ 10.
 
