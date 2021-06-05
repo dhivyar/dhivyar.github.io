@@ -64,20 +64,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Maison ML
+        #link: https://maisonml.github.io/
+        #link_text: maisonml.github.io
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  maisonml.github.io
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://maisonml.github.io/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Tech Stack: The reports are powered by [R Markdown](https://rmarkdown.rstudio.com/) running on [R Studio Server](https://www.rstudio.com/products/rstudio/#rstudio-server) installed in a [AWS EC2](https://aws.amazon.com/ec2/) instance and knit into HTML web pages using the dynamic report generating engine, [knitr](https://yihui.org/knitr/). The visualizations are built using [ggplot2](https://ggplot2.tidyverse.org/) and the rich data frames are built using [Formattable](http://renkun-ken.github.io/formattable/). The product is built using [Jekyll](https://jekyllrb.com/) and hosted on [Github](https://github.com/).
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Founded the data product, **Maison ML** to serve as a reference of data intensive COVID-19 reports to track the onset, progression and velocity of the 2019-2021 COVID-19 pandemic across the world. Maison ML has **260+ COVID-19 data reports** hosted as of today.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -87,7 +87,7 @@ content:
         link: https://www1.nyc.gov/assets/cto/#/
         link_text: nyc.gov/cto
         sub_title: NYC[X] INNOVATION FELLOW (DATA SCIENTIST)
-        caption: August 2020 - Present PRO BONO
+        caption: Aug 2020 - Present PRO BONO
         quote: >
          We use technology, innovation, AI, design, research, policy, connectivity and collaboration to make NYC future ready.
         description: | # this will include new lines to allow paragraphs
@@ -101,7 +101,7 @@ content:
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
         sub_title: FULL STACK DATA SCIENTIST
-        caption: April 2020 - Present PRO BONO
+        caption: Apr 2020 - Present PRO BONO
         quote: >
          We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
         description: | # this will include new lines to allow paragraphs
@@ -112,12 +112,36 @@ content:
         link: https://www.bankbazaar.com/
         link_text: bankbazaar.com
         sub_title: SENIOR DATA SCIENTIST
-        caption: February 2016 - February 2018 FULL TIME
+        caption: Feb 2016 - Feb 2018 FULL TIME
         quote: >
          BankBazaar.com is the world's first neutral online marketplace for instant customized rate quotes on loans and credit cards. Shop for loans & cards just like you buy everything else now - online.
         description: | # this will include new lines to allow paragraphs
-            As a Senior Data Scientist, my job role had me build and manage projects at multiple touch-points within BankBazaar.Com- from the core product to operations and marketing.\n * Built the world's first Interest Rate Deviation Engine using Machine Learning that predicts the best customers that can be made eligible for an interest rate cut for Personal Loans. The application rate of customers doubled with rate deviation and the approval rate improved by ~5%. Built Partner Preference Engines for Credit Cards and Personal Loans that predicts the customer's ‘applying’ behavior and the bank's ‘approval’ behavior. These Machine Learning models are used in the ranking and ordering of product offers and the offer position improved by ~19% for applied offers and by 22% for approved offers. * Built Application Prioritization Engines using Machine Learning that enables for efficient customer life-cycle. This was done by predicting an application’s approval probability for Credit Cards and loan disbursal probability for Mortgages, Auto Loans and Personal Loans. The engines capture 80% of all approvals/ disbursals by processing just 50% of applications. * Designed and tracked multiple targeted and personalized campaigns for Auto Loans using exploratory analyses. The campaigns drove an additional ~6% application volume to the existing Auto Loan portfolio. * Enhanced customer data assets by mining unstructured data sources. The data were classified into different types of transactions using Natural Language Processing techniques. * Built Credit Risk Engines using Machine Learning Algorithms for unsecured credit products that will assess the credit risk of serious delinquency associated with a customer for a particular credit product. * Built a Product Recommender Engine that models on the customers’ historic online behavior data to predict the customers that had the highest propensity to apply for a credit card.
+            As a Senior Data Scientist, my job role had me build and manage projects at multiple touch-points within BankBazaar.Com- from the core product to operations and marketing.
+            - Built the world's first Interest Rate Deviation Engine using Machine Learning that predicts the best customers that can be made eligible for an interest rate cut for Personal Loans. The application rate of customers doubled with rate deviation and the approval rate improved by ~5%. 
+            - Built Partner Preference Engines for Credit Cards and Personal Loans that predicts the customer's ‘applying’ behavior and the bank's ‘approval’ behavior. These Machine Learning models are used in the ranking and ordering of product offers and the offer position improved by ~19% for applied offers and by 22% for approved offers. 
+            - Built Application Prioritization Engines using Machine Learning that enables for efficient customer life-cycle. This was done by predicting an application’s approval probability for Credit Cards and loan disbursal probability for Mortgages, Auto Loans and Personal Loans. The engines capture 80% of all approvals/ disbursals by processing just 50% of applications. 
+            - Designed and tracked multiple targeted and personalized campaigns for Auto Loans using exploratory analyses. The campaigns drove an additional ~6% application volume to the existing Auto Loan portfolio. 
+            - Enhanced customer data assets by mining unstructured data sources. The data were classified into different types of transactions using Natural Language Processing techniques. 
+            - Built Credit Risk Engines using Machine Learning Algorithms for unsecured credit products that will assess the credit risk of serious delinquency associated with a customer for a particular credit product. 
+            - Built a Product Recommender Engine that models on the customers’ historic online behavior data to predict the customers that had the highest propensity to apply for a credit card.
 
+      - layout: left
+        title: Grandatos
+        link: http://www.grandatos.com/
+        link_text: grandatos.com
+        sub_title: CHIEF DATA SCIENTIST
+        caption: Jun 2013 - Jan 2016 FULL TIME
+        quote: >
+         Grandatos.com is a simple initiative driven by Escomm Group, aimed at delivering Analytics insights, hind-sights and fore-sights for everyday use for everybody.
+            
+      - layout: left
+        title: IBM Global Business Services
+        link: https://www.ibm.com/services/consulting
+        link_text: ibm.com
+        sub_title: SOFTWARE ENGINEER
+        caption: Jun 2011 - May 2013 FULL TIME
+        quote: >
+         IBM Global Business Services® is your business acceleration partner to co-create change and scale impact across your business. Work alongside our experts to reap benefits from connected processes, AI and automation, and a hybrid cloud architecture. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -125,11 +149,17 @@ content:
       - layout: left
         title: IIM Calcutta
         caption: 2012 - 2014
-        sub_title: Executive Program in Global Business Management (EPGBM)
+        sub_title: EXECUTIVE PROGRAM IN GLOBAL BUSINESS MANAGEMENT (EPGBM)
         quote: >
           Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a top business school in Asia located in Joka, Kolkata, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the Government of India in 2017. 
         description: | # this will include new lines to allow paragraphs
           During my time at IIM Calcutta I secured "Excellent" grade in 8 out of 12 modules.
+            Courses:
+            - Financial Management
+            - Quantitative Analysis
+            - Operations Management
+            - Strategy Management
+            - International Business
 
       - layout: left
         title: College of Engineering Guindy, Anna University
@@ -139,7 +169,12 @@ content:
           College of Engineering, Guindy (CEG) is a public engineering college in Chennai, India and is Asia's oldest technical institution, founded in 1794. It is also the oldest technical institution to be established outside Europe.
         description: | # this will include new lines to allow paragraphs
           During my time at CEG I secured a CGPA of 8.91/ 10.
-
+            Courses:
+            - Probability and Statistics
+	    - Operations Research
+            - Simulation Modeling and Analysis
+            - Advanced Optimization Algorithms
+	    - Design and Analysis of Experiments
 
   - title: A Little More About Me
     layout: text
