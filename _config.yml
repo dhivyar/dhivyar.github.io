@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          <mark>R</mark>, <mark>R Studio</mark>, <mark>R Markdown</mark>, <mark>R Shiny</mark>,	  <mark>Python</mark>, <mark>Pandas</mark>, <mark>Scikit- Learn</mark>, <mark>Jupyter Notebook</mark>,	  <mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>),	  <mark>Git</mark>, <mark>GitHub</mark>, <mark>Version Control</mark>,	  <mark>ArcGIS</mark>, <mark>Tableau</mark>, <mark>Carto</mark>,	  <mark>ggplot2</mark>, <mark>dplyr</mark>, <mark>caret</mark>, <mark>reshape2</mark>, <mark>plyr</mark>,	  <mark>Amazon EC2</mark>, <mark>Redshift</mark>, <mark>AWS Lambda</mark>,	  <mark>Azure Machine Learning Studio</mark>, <mark>Azure Notebooks</mark>, Workspaces</mark>, <mark>Compute Instances</mark>, <mark>Azure Functions</mark>,	  <mark>Machine Learning</mark>- <mark>Linear/ Logistic Regression</mark>, <mark>Gradient Boosting Trees</mark>, <mark>Random Forests</mark>, <mark>Decision Trees</mark>, <mark>SVM</mark>,	  <mark>NLP</mark>, <mark>Recommendation Engines</mark>,
+          <mark>R</mark>, <mark>R Studio</mark>, <mark>R Markdown</mark>, <mark>R Shiny</mark>, <mark>Python</mark>, <mark>Pandas</mark>, <mark>Scikit- Learn</mark>, <mark>Jupyter Notebook</mark>,<mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>), <mark>Git</mark>, <mark>GitHub</mark>, <mark>Version Control</mark>, <mark>ArcGIS</mark>, <mark>Tableau</mark>, <mark>Carto</mark>, <mark>ggplot2</mark>, <mark>dplyr</mark>, <mark>caret</mark>, <mark>reshape2</mark>, <mark>plyr</mark>, <mark>Amazon EC2</mark>, <mark>Redshift</mark>, <mark>AWS Lambda</mark>, <mark>Azure Machine Learning Studio</mark>, <mark>Azure Notebooks</mark>, Workspaces</mark>, <mark>Compute Instances</mark>, <mark>Azure Functions</mark>, <mark>Machine Learning</mark>- <mark>Linear/ Logistic Regression</mark>, <mark>Gradient Boosting Trees</mark>, <mark>Random Forests</mark>, <mark>Decision Trees</mark>, <mark>SVM</mark>, <mark>NLP</mark>, <mark>Recommendation Engines</mark>,
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -101,9 +101,18 @@ content:
         caption: 2012 - 2014
         sub_title: Executive Program in Global Business Management (EPGBM)
         quote: >
-          Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a public business school located in Joka, Kolkata, West Bengal, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the government of India in 2017. IIM Calcutta is one of only three triple accredited business schools in India, and the first to get the recognition. It is also the only business school in India which is a part of the CEMS Global Alliance in Management Education.
+          Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a public business school located in Joka, Kolkata, West Bengal, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the government of India in 2017. 
         description: | # this will include new lines to allow paragraphs
           During my time at IIM Calcutta I secured "Excellent" grade in 8 out of 12 modules.
+
+      - layout: left
+        title: College of Engineering Guindy, Anna University (Asia's Oldest Technical Institution)
+        caption: 2009 - 2011
+        sub_title: MASTERS IN INDUSTRIAL ENGINEERING (M.E.)
+        quote: >
+          Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a public business school located in Joka, Kolkata, West Bengal, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the government of India in 2017. IIM Calcutta is one of only three triple accredited business schools in India, and the first to get the recognition. It is also the only business school in India which is a part of the CEMS Global Alliance in Management Education.
+        description: | # this will include new lines to allow paragraphs
+          CGPA: 8.91/ 10
 
 
   - title: A Little More About Me
