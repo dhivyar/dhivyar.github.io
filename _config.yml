@@ -75,7 +75,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          Founded the data product, **[Maison ML](https://maisonml.github.io/)** to serve as a reference of data intensive COVID-19 reports to track the onset, progression and velocity of the 2019-2021 COVID-19 pandemic across the world. Maison ML has **260+ COVID-19 data reports** hosted as of today.
+          Founded the data product, [**Maison ML**](https://maisonml.github.io/) to serve as a reference of data intensive COVID-19 reports to track the onset, progression and velocity of the 2019-2021 COVID-19 pandemic across the world. Maison ML has **260+ COVID-19 data reports** hosted as of today.
           **Tech Stack:** The reports are powered by [R Markdown](https://rmarkdown.rstudio.com/) running on [R Studio Server](https://www.rstudio.com/products/rstudio/#rstudio-server) installed in a [AWS EC2](https://aws.amazon.com/ec2/) instance and knit into HTML web pages using the dynamic report generating engine, [knitr](https://yihui.org/knitr/). The visualizations are built using [ggplot2](https://ggplot2.tidyverse.org/) and the rich data frames are built using [Formattable](http://renkun-ken.github.io/formattable/). The product is built using [Jekyll](https://jekyllrb.com/) and hosted on [Github](https://github.com/).
 
   - title: Experience # Title for the section
