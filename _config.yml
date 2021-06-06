@@ -158,7 +158,7 @@ content:
         #link_text: maisonml.github.io
         additional_links:
           - title:  credly.com/badges
-            icon: fab fa-cloud
+            icon: far fa-cloud
             url: https://www.credly.com/badges/cafbdc40-f673-4485-967f-892b570876c2/public_url
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
