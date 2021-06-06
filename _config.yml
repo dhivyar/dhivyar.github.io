@@ -154,6 +154,7 @@ content:
     content:
       - layout: top-middle
         title: Microsoft certified Azure Data Scientist Associate
+        image: images/azure.png
         #link: https://maisonml.github.io/
         #link_text: maisonml.github.io
         additional_links:
