@@ -149,6 +149,23 @@ content:
         description: | # this will include new lines to allow paragraphs
             This was my first job after college. As a Software Engineering, I drove the effort in analyzing and reporting software quality for a Sales Automation IT tool for VoIP products built for **AT&T**.
 
+ - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Microsoft certified Azure Data Scientist Associate
+        #link: https://maisonml.github.io/
+        #link_text: maisonml.github.io
+        additional_links:
+          - title:  credly.com/badges
+            icon: fab fa-cloud
+            url: https://www.credly.com/badges/cafbdc40-f673-4485-967f-892b570876c2/public_url
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          [Azure Data Scientist Associates](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/) should have subject matter expertise applying data science and machine learning to implement and run machine learning workloads on Azure. Responsibilities for this role include planning and creating a suitable working environment for data science workloads on Azure, running data experiments and training predictive models. In addition, Associates manage, optimize, and deploy machine learning models into production. Associates with this certification have demonstrated knowledge and experience in data science and using **Azure Machine Learning Studio** and Azure Databricks.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
