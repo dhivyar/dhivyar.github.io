@@ -192,10 +192,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science and Machine Learning some of my other interests and hobbies are:
-      - Acrylic Painting :female-artist:
-      - Interior Designing and Decorating :house_with_garden:
-      - Traveling and Taking Road Trips :car:
-      - Watching Tennis :tennis:
+      - Acrylic painting 👩‍🎨
+      - Interior designing and decorating 🏡
+      - Traveling and taking long road trips 🚗
+      - Watching Tennis 🎾
 
 # Footer
 footer_show_references: true
