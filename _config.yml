@@ -149,7 +149,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             This was my first job after college. As a Software Engineering, I drove the effort in analyzing and reporting software quality for a Sales Automation IT tool for VoIP products built for **AT&T**.
 
- - title: Certifications # Title for the section
+  - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
