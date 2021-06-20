@@ -35,7 +35,7 @@ additional_links:
   icon: fas fa-calendar
   url: https://calendly.com/dhivyaravindran
 - title: Medium posts
-  icon: fas fa-medium 
+  icon: fab fa-medium 
   url: https://dhivyaravindran.medium.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
