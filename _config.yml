@@ -93,9 +93,9 @@ content:
         quote: >
          The Only Platform you need to run Retail.
         description: | # this will include new lines to allow paragraphs
-            As the consulting Head of Data Science and Machine Learning, I consulted within multiple data touchpoints within a San Jose, California-based retail startup- from Marketing to Product.
-            - Strategized and built a B2B marketing small business leads database with near-ideal accuracy and built a rule engine to weed out B2B leads that have limited propensity to convert.
-            - Built market insights to curate the marketing strategy for different customer segments in different geographies. Studied 27 verticals within the retail industry and identified new growth segments for the retail startup.
+            As the consulting Head of Data Science and Machine Learning, I consulted at multiple data touchpoints within a San Jose, California-based retail startup- from Marketing to Product.
+            - Strategized and built a B2B marketing **small business leads database** with near-ideal accuracy and built a rule engine to weed out B2B leads that have limited propensity to convert.
+            - Built market insights to curate the marketing strategy for different customer segments in different geographies. Studied **27 verticals within the retail industry** and identified new growth segments for the retail startup.
             
       - layout: left
         title: Mayor's Office of the Chief Technology Officer, City of New York
@@ -181,6 +181,23 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
            [Azure Data Scientist Associates](https://www.credly.com/badges/cafbdc40-f673-4485-967f-892b570876c2/public_url) should have subject matter expertise applying Data Science and Machine Learning to implement and run machine learning workloads on Azure. Responsibilities for this role include planning and creating a suitable working environment for Data Science workloads on Azure, running data experiments and training predictive models. In addition, Associates manage, optimize, and deploy machine learning models into production. Associates with this certification have demonstrated knowledge and experience in data science and using **Azure Machine Learning Studio** and **Azure Databricks.**
+
+  - title: Mentoring AI/ ML # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: <img src="images/ut.jpeg" width="40" height="40"> Microsoft Certified Azure Data Scientist Associate
+        #link: https://maisonml.github.io/
+        #link_text: maisonml.github.io
+        additional_links:
+          - #title:  credly.com/badges
+            #icon: fab fa-microsoft
+            #url: https://www.credly.com/badges/cafbdc40-f673-4485-967f-892b570876c2/public_url
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+           Sessional Mentor and Instructor for the PG Program in Artificial Intelligence & Machine Learning at the UT Austin McCombs School of Business.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
