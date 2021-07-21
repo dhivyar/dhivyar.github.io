@@ -94,9 +94,8 @@ content:
          The Only Platform you need to run Retail.
         description: | # this will include new lines to allow paragraphs
             As the consulting Head of Data Science and Machine Learning, I consulted within multiple data touchpoints within a San Jose, California-based retail startup- from Marketing to Product.
-            - Strategized and built a B2B marketing small business leads database with near-ideal accuracy.
-            - Built market insights to curate the marketing strategy for different customer segments in different geographies and to weed out B2B leads that have limited propensity to convert.
-            - Studied 27 verticals within the retail industry and identified new growth segments for the retail startup.
+            - Strategized and built a B2B marketing small business leads database with near-ideal accuracy and built a rule engine to weed out B2B leads that have limited propensity to convert.
+            - Built market insights to curate the marketing strategy for different customer segments in different geographies. Studied 27 verticals within the retail industry and identified new growth segments for the retail startup.
             
       - layout: left
         title: Mayor's Office of the Chief Technology Officer, City of New York
