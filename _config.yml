@@ -88,7 +88,7 @@ content:
             icon: fab fa-flickr
             url: https://www.flickr.com/photos/dhivs/
         description: | # this will include new lines to allow paragraphs
-          I make handwritten flashcards on Machine Learning and Artificial Intelligence concepts. These flashcards are intended to rapidly demystify complex Machine Learning algorithms and make them enjoyable to consume for non-data users.
+          I make handwritten [flashcards](https://www.flickr.com/photos/dhivs/) on Machine Learning and Artificial Intelligence concepts. These flashcards are intended to rapidly demystify complex Machine Learning algorithms and make them enjoyable to consume for non-data users.
 
 
   - title: Experience # Title for the section
