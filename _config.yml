@@ -192,14 +192,14 @@ content:
         description: | # this will include new lines to allow paragraphs
            [Azure Data Scientist Associates](https://www.credly.com/badges/cafbdc40-f673-4485-967f-892b570876c2/public_url) should have subject matter expertise applying Data Science and Machine Learning to implement and run machine learning workloads on Azure. Responsibilities for this role include planning and creating a suitable working environment for Data Science workloads on Azure, running data experiments and training predictive models. In addition, Associates manage, optimize, and deploy machine learning models into production. Associates with this certification have demonstrated knowledge and experience in data science and using **Azure Machine Learning Studio** and **Azure Databricks.**
 
-  - title: Other # Title for the section
+  - title: Mentoring Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: <img src="images/ut.png" width="40" height="40"> Mentor AI/ ML
         caption: July 2021 - Present CONTRACT
-        #link: https://maisonml.github.io/
-        #link_text: maisonml.github.io
+        link: https://la.utexas.edu/greatlearning/uta-artificial-intelligence-machine-learning.html?&utm_source=Google&utm_medium=search&utm_campaign=AIML_Int_Brand_RLSA_Exact_US&adgroup_id=117337664374&campaign_id=12466767317&Keyword=ut%20austin%20pgp%20aiml&placement=&gclid=CjwKCAjwhaaKBhBcEiwA8acsHCkNY23ca2TK2KAIcTJ0PJr6oP9GLgfUKUn3C7XA9PoSlW5ykIBotBoCS9QQAvD_BwE
+        link_text: utexas.edu/aiml
         additional_links:
           - #title:  credly.com/badges
             #icon: fab fa-microsoft
