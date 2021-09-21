@@ -208,7 +208,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-           Sessional Mentor and Instructor for the PG Program in Artificial Intelligence & Machine Learning at the UT Austin McCombs School of Business.
+           Sessional Mentor and Instructor for the **PG Program in Artificial Intelligence & Machine Learning** at the UT Austin McCombs School of Business.
             Courses Mentored:
               - Fundamentals of Artificial Intelligence and Machine Learning
               - Supervised Learning: Regression
