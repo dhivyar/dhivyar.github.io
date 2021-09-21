@@ -95,7 +95,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Shelfperks.Com (2497 Inc.)
+        title: Shelfperks.Com
         link: https://shelfperks.com/
         link_text: shelfperks.com
         sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
@@ -111,7 +111,7 @@ content:
         title: Mayor's Office of the Chief Technology Officer, City of New York
         link: https://www1.nyc.gov/assets/cto/#/
         link_text: nyc.gov/cto
-        sub_title: NYC[X] INNOVATION FELLOW (DATA SCIENTIST)
+        sub_title: NYC[x] DATA INNOVATION FELLOW
         caption: Aug 2020 - Present PRO BONO
         quote: >
          We use technology, innovation, AI, design, research, policy, connectivity and collaboration to make NYC future ready.
