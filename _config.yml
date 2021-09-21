@@ -61,7 +61,7 @@ content:
     content:
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          <mark>R</mark> <mark>R Studio</mark> <mark>R Markdown</mark> <mark>R Shiny</mark> <mark>Python</mark> <mark>Pandas</mark> <mark>Scikit- Learn</mark> <mark>Matplotlib</mark> <mark>Seaborn</mark> <mark>Jupyter Notebook</mark> <mark>JupyterLab</mark> <mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>) <mark>Git</mark> <mark>GitHub</mark> <mark>Version Control</mark> <mark>ArcGIS</mark> <mark>Tableau</mark> <mark>Carto</mark> <mark>ggplot2</mark> <mark>dplyr</mark> <mark>caret</mark> <mark>reshape2</mark> <mark>plyr</mark> <mark>Amazon EC2</mark> <mark>Redshift</mark> <mark>AWS Lambda</mark> <mark>Azure Machine Learning Studio</mark> <mark>Azure Notebooks</mark> <mark>Azure Workspaces</mark> <mark>Azure Compute Instances</mark> <mark>Azure Functions</mark> <mark>Azure Container Instances</mark> <mark>Azure Kubernetes Services</mark> <mark>Machine Learning</mark> <mark>Linear Regression</mark> <mark>Logistic Regression</mark> <mark>SVM</mark> <mark>Decision Tree</mark> <mark>Random Forest</mark> <mark>XGBoost</mark> <mark>Natural Language Processing</mark> <mark>Recommendation Engines</mark>
+          <mark>R</mark> <mark>R Studio</mark> <mark>R Markdown</mark> <mark>R Shiny</mark> <mark>Python</mark> <mark>Pandas</mark> <mark>Scikit- Learn</mark> <mark>Matplotlib</mark> <mark>Seaborn</mark> <mark>Jupyter Notebook</mark> <mark>JupyterLab</mark> <mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>) <mark>Git</mark> <mark>GitHub</mark> <mark>Version Control</mark> <mark>ArcGIS</mark> <mark>Tableau</mark> <mark>Carto</mark> <mark>ggplot2</mark> <mark>dplyr</mark> <mark>caret</mark> <mark>reshape2</mark> <mark>plyr</mark> <mark>Amazon EC2</mark> <mark>Redshift</mark> <mark>AWS Lambda</mark> <mark>Azure Machine Learning Studio</mark> <mark>Azure Notebooks</mark> <mark>Azure Workspaces</mark> <mark>Azure Compute Instances</mark> <mark>Azure Functions</mark> <mark>Azure Container Instances</mark> <mark>Azure Kubernetes Services</mark> <mark>Machine Learning</mark> <mark>Linear Regression</mark> <mark>Logistic Regression</mark> <mark>Decision Tree</mark> <mark>Random Forest</mark> <mark>Boosting Models</mark> <mark>XGBoost</mark> <mark>Natural Language Processing</mark> <mark>Recommendation Engines</mark>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,10 +95,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Stealth Retail Startup
-        ##link: https://www1.nyc.gov/assets/cto/#/
-        ##link_text: nyc.gov/cto
-        sub_title: HEAD OF DATA SCIENCE AND MACHINE LEARNING
+        title: Shelfperks.Com (2497 Inc.)
+        link: https://shelfperks.com/
+        link_text: shelfperks.com
+        sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
         caption: Feb 2021 - Present CONTRACT
         quote: >
          The Only Platform you need to run Retail.
@@ -197,6 +197,7 @@ content:
     content:
       - layout: top-middle
         title: <img src="images/ut.png" width="40" height="40"> Mentor AI/ ML
+        caption: July 2021 - Present CONTRACT
         #link: https://maisonml.github.io/
         #link_text: maisonml.github.io
         additional_links:
@@ -208,6 +209,12 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
            Sessional Mentor and Instructor for the PG Program in Artificial Intelligence & Machine Learning at the UT Austin McCombs School of Business.
+            Courses Mentored:
+              - Fundamentals of Artificial Intelligence and Machine Learning
+              - Supervised Learning: Regression
+              - Supervised Learning: Classification
+              - Ensembling Techniques
+              - Model Tuning, Regularization, Handling Imbalanced Data
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
