@@ -215,7 +215,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I make handwritten [flashcards](https://www.flickr.com/photos/dhivs/) on Machine Learning and Artificial Intelligence concepts. These flashcards are intended to rapidly demystify complex Machine Learning algorithms and make them enjoyable to consume for non-data users.
             Flashcard Topics: 
-              - [Scikit-Learn Functions](https://flic.kr/s/aHsmWAE6GX)
+              - [Scikit-Learn Functions](https://flic.kr/s/aHsmWAE6GX){:target="_blank"}
               - [Linear Regression](https://flic.kr/s/aHsmWEpdSN)
               - [Logistic Regression](https://flic.kr/s/aHsmWEpajf)
               - [Decision Trees](https://flic.kr/s/aHsmWzxjxT)
