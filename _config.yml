@@ -53,7 +53,7 @@ about_profile_image: images/dhivya.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dhivya. Am a business-oriented Product Data Scientist with **~7 years of full-time industry experience** and **1+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
 
-  My specialties include: <mark>Product Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Banking</mark> and <mark>Start-ups</mark>
+  My specialties include: <mark>Product Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Banking</mark>, <mark>CivicTech</mark> and <mark>Start-ups</mark>
 
 content:
   - title: Skills # Title for the section
@@ -185,7 +185,7 @@ content:
               - Fundamentals of Artificial Intelligence and Machine Learning
               - Supervised Learning: Regression
               - Supervised Learning: Classification
-              - Ensembling Techniques
+              - Ensembling Techniques: Bagging and Boosting Models
               - Model Tuning, Regularization, Handling Imbalanced Data
 
   - title: Projects # Title for the section
@@ -214,6 +214,17 @@ content:
             url: https://www.flickr.com/photos/dhivs/
         description: | # this will include new lines to allow paragraphs
           I make handwritten [flashcards](https://www.flickr.com/photos/dhivs/) on Machine Learning and Artificial Intelligence concepts. These flashcards are intended to rapidly demystify complex Machine Learning algorithms and make them enjoyable to consume for non-data users.
+            Flashcard Topics: 
+              - [Scikit-Learn Functions](https://flic.kr/s/aHsmWAE6GX)
+              - [Linear Regression](https://flic.kr/s/aHsmWEpdSN)
+              - [Logistic Regression](https://flic.kr/s/aHsmWEpajf)
+              - [Decision Trees](https://flic.kr/s/aHsmWzxjxT)
+              - Bagging and Random Forest
+              - [Data Transformations](https://flic.kr/s/aHsmWA2Jco)
+              - [Regression Model Performance Metrics](https://flic.kr/s/aHsmWzxtk2)
+              - [Classification Model Performance Metrics](https://flic.kr/s/aHsmWAEaR3)
+              - [Regularization](https://flic.kr/s/aHsmWzHb4V)
+              - [Hyperparameter Tuning](https://flic.kr/s/aHsmWzxk8R)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
