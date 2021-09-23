@@ -97,12 +97,14 @@ content:
         title: U. S. Digital Response
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
-        sub_title: FULL STACK DATA SCIENTIST
+        sub_title: PROJECT ADVISOR AND DATA SCIENTIST
         caption: Apr 2020 - Present PRO BONO
         quote: >
          We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
         description: | # this will include new lines to allow paragraphs
-            As a Pro- Bono Data Scientist, I built a **first-of-its-kind immigrant services directory** that centralizes services for 3 million immigrants living in **Los Angeles County.**
+            - As an Advisor, I mentored and advised Project Leads on what it takes to deliver data and technology projects for Governments, on how to navigate bureaucracies, and on how to manage constraints and deliver tightly scoped projects.
+            - As a Pro- Bono Data Scientist, I built a **first-of-its-kind immigrant services directory** that centralizes services for 3 million immigrants living in **Los Angeles County.**
+
 
       - layout: left
         title: BankBazaar.Com
