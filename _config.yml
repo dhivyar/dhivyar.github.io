@@ -51,7 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/dhivya.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dhivya. Am a business-oriented Product Data Scientist with **~7 years of full-time industry experience** and **1+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
+  Hi, my name's Dhivya. Am a business-oriented Product Data Scientist with **7+ years of full-time industry experience** and **1+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
 
   My specialties include: <mark>Product Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Banking</mark>, <mark>CivicTech</mark> and <mark>Start-ups</mark>
 
@@ -222,7 +222,12 @@ content:
               - [Linear Regression](https://flic.kr/s/aHsmWEpdSN){:target="_blank"}
               - [Logistic Regression](https://flic.kr/s/aHsmWEpajf){:target="_blank"}
               - [Decision Trees](https://flic.kr/s/aHsmWzxjxT){:target="_blank"}
-              - Bagging and Random Forest
+              - [Bagging](https://flic.kr/s/aHsmWN2fvQ){:target="_blank"}
+              - [Random Forest](https://flic.kr/s/aHsmWNDu9W){:target="_blank"}
+              - [Boosting](https://flic.kr/s/aHsmWXmnE7){:target="_blank"}
+              - [AdaBoost](https://flic.kr/s/aHsmWX1GGi){:target="_blank"}
+              - [GBM](https://flic.kr/s/aHsmWWRHdA){:target="_blank"}
+              - [XGBoost](https://flic.kr/s/aHsmWXY8co){:target="_blank"}
               - [Data Transformations](https://flic.kr/s/aHsmWA2Jco){:target="_blank"}
               - [Regression Model Performance Metrics](https://flic.kr/s/aHsmWzxtk2){:target="_blank"}
               - [Classification Model Performance Metrics](https://flic.kr/s/aHsmWAEaR3){:target="_blank"}
