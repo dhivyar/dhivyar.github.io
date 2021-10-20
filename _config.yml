@@ -77,8 +77,9 @@ content:
          The Only Platform you need to run Retail.
         description: | # this will include new lines to allow paragraphs
             As the consulting Head of Data Science and Machine Learning, I consulted at multiple data touchpoints within a San Jose, California-based retail startup- from Marketing to Product.
-            - Strategized and built a B2B marketing **small business leads database** with near-ideal accuracy and built a rule engine to weed out B2B leads that have limited propensity to convert.
+            - Strategized and built a B2B marketing **small business leads database** with near-ideal accuracy using Google Places API and built a rule engine to weed out B2B leads that have limited propensity to convert.
             - Built market insights to curate the marketing strategy for different customer segments in different geographies. Studied **27 verticals within the retail industry** and identified new growth segments for the retail startup.
+            - Strategized merchant and validation DB rules to sanitize and standardize product data (including product category, sub-category, product EAN/ UPC barcode, product name, description, image, etc) for seamless onboarding of new merchants and new products for existing merchants. 
             
       - layout: left
         title: Mayor's Office of the Chief Technology Officer, City of New York
@@ -134,10 +135,11 @@ content:
         quote: >
          Grandatos.com is a simple initiative driven by Escomm Group, aimed at delivering Analytics insights, hind-sights and fore-sights for everyday use for everybody.
         description: | # this will include new lines to allow paragraphs
-            As a Chief Data Scientist, my role encompassed consulting and building Data Science solutions for our clients.
-            - Built a Marketing Response Model that predicts the conversion of potential customers by employing direct mail marketing.
-            - Analyzed performance of #hashtag campaigns basis popularity in Twitter.
-            - Analyzed audience profiles in Twitter using Twitter API (for data fetch). This is used in targeted marketing and audience preference-based posting.
+            As a Chief Data Scientist, my job role had me pitch, win and manage Analytics projects for multiple clients.
+            - Built targeted segments with personalized content for multiple campaigns with unique threshold CTRs and the overall conversions improved by 20%.
+            - Built a Marketing Response Model that predicts the conversion of potential customers by employing direct email marketing.
+            - Developed Twitter Analytics models which help understand Twitter followers, analyze competitors' audience and follow #hashtag campaigns.
+            - Drove the sales effort from Technical side by co-presenting sales pitches with customized solutions and strategies.
             
       - layout: left
         title: IBM Global Business Services
@@ -148,7 +150,11 @@ content:
         quote: >
          IBM Global Business Services® is your business acceleration partner to co-create change and scale impact across your business. Work alongside our experts to reap benefits from connected processes, AI and automation, and a hybrid cloud architecture.
         description: | # this will include new lines to allow paragraphs
-            This was my first job after college. As a Software Engineer, I drove the effort in analyzing and reporting software quality for a Sales Automation IT tool for VoIP products built for **AT&T**.
+            This was my first job after college. As a Software Engineer, I drove the effort in analyzing and reporting software quality for a Sales Automation tool built for **AT&T**.
+            - Appointed as the SPOC for all VoIP (Voice over Internet Protocol) related sales flow projects for both new and existing customers.
+            - Collaborated with SEs and Developers from multiple organizations, multiple cities and multiple time zones.
+            - Exceeded predicted targets for all projects and achieved recognition for having 0 red flagged projects.
+            - Provided client training for Software Engineers on how to seamlessly transition from IBMers to IBMers partnering AT&T.
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
