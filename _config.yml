@@ -61,8 +61,8 @@ content:
     content:
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          <mark>Python</mark> <mark>Pandas</mark> <mark>Scikit-Learn</mark> <mark>NumPy</mark> <mark>Seaborn</mark> <mark>Matplotlib</mark> <mark>Jupyter Notebook</mark> <mark>JupyterLab</mark> <mark>R</mark> <mark>R Studio</mark> <mark>R Markdown</mark> <mark>R Shiny</mark> <mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>) <mark>API Integrations</mark> <mark>Git</mark> <mark>GitHub</mark> <mark>Version Control</mark> <mark>ArcGIS</mark> <mark>Tableau</mark> <mark>Carto</mark> <mark>AWS EC2</mark> <mark>AWS Redshift</mark> <mark>AWS S3</mark> <mark>AWS Lambda</mark> <mark>Azure Machine Learning Studio</mark> <mark>Azure Notebooks</mark> <mark>Azure Workspaces</mark> <mark>Azure Compute Instances</mark> <mark>Azure Functions</mark> <mark>Azure Container Instances</mark> <mark>Azure Kubernetes Services</mark> 
-          <mark>Machine Learning</mark> <mark>Linear Regression</mark> <mark>Logistic Regression</mark> <mark>Decision Tree</mark> <mark>Random Forest</mark> <mark>AdaBoost</mark> <mark>Gradient Boosting Machine</mark> <mark>XGBoost</mark> <mark>LightGBM</mark> <mark>CatBoost</mark> <mark>Natural Language Processing</mark> <mark>Recommendation Engines</mark> <mark>Segmentation Models</mark>
+          <mark>Python</mark> <mark>Pandas</mark> <mark>Scikit-Learn</mark> <mark>NumPy</mark> <mark>Seaborn</mark> <mark>Matplotlib</mark> <mark>Jupyter Notebook</mark> <mark>JupyterLab</mark> <mark>VS Code</mark> <mark>R</mark> <mark>R Studio</mark> <mark>R Markdown</mark> <mark>R Shiny</mark> <mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>) <mark>API Integrations</mark> <mark>Git</mark> <mark>GitHub</mark> <mark>Version Control</mark> <mark>ArcGIS</mark> <mark>Tableau</mark> <mark>Carto</mark> <mark>AWS EC2</mark> <mark>AWS Redshift</mark> <mark>AWS S3</mark> <mark>AWS Lambda</mark> <mark>Azure Machine Learning Studio</mark> <mark>Azure Notebooks</mark> <mark>Azure Workspaces</mark> <mark>Azure Compute Instances</mark> <mark>Azure Functions</mark> <mark>Azure Container Instances</mark> <mark>Azure Kubernetes Services</mark> 
+          <mark>Machine Learning</mark> <mark>Linear Regression</mark> <mark>Logistic Regression</mark> <mark>Decision Tree</mark> <mark>Bagging Classifier/ Regressor</mark> <mark>Random Forest</mark> <mark>AdaBoost</mark> <mark>Gradient Boosting Machine</mark> <mark>XGBoost</mark> <mark>LightGBM</mark> <mark>CatBoost</mark> <mark>MLOps</mark> <mark>Natural Language Processing</mark> <mark>Recommendation Engines</mark> <mark>Segmentation Models</mark> <mark>A/B Experiments</mark> <mark>Multivariate Experiments</mark> <mark>Data Pipelines Architecting</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -79,7 +79,7 @@ content:
             As the consulting Head of Data Science and Machine Learning, I consulted at multiple data touchpoints within a San Jose, California-based retail startup- from Marketing to Product.
             - Strategized and built a B2B marketing **small business leads database** with near-ideal accuracy using Google Places API and built a rule engine to weed out B2B leads that have limited propensity to convert.
             - Built market insights to curate the marketing strategy for different customer segments in different geographies. Studied **27 verticals within the retail industry** and identified new growth segments for the retail startup.
-            - Strategized **merchant and validation DB** rules to sanitize and standardize product data (including product category, sub-category, product EAN/ UPC barcode, product name, description, image, etc) for seamless onboarding of new merchants and new products for existing merchants. 
+            - Strategized **merchant and validation DB** rules to sanitize and standardize product data (including the product category, sub-category, product EAN/ UPC barcode, product name, description, image, etc) for seamless onboarding of new merchants and new products for existing merchants. 
             
       - layout: left
         title: Mayor's Office of the Chief Technology Officer, City of New York
@@ -153,8 +153,8 @@ content:
             This was my first job after college. As a Software Engineer, I drove the effort in analyzing and reporting software quality for a Sales Automation tool built for **AT&T**.
             - Appointed as the SPOC for all VoIP (Voice over Internet Protocol) related sales flow projects for both new and existing customers.
             - Collaborated with SEs and Developers from multiple organizations, multiple cities and multiple time zones.
-            - Exceeded predicted targets for all projects and achieved recognition for having 0 red flagged projects.
-            - Provided client training for Software Engineers on how to seamlessly transition from IBMers to IBMers partnering AT&T.
+            - Exceeded predicted targets for all projects and achieved recognition for having 0 red-flagged projects.
+            - Provided client training for Software Engineers on how to seamlessly transition from IBMers to IBMers partnering with AT&T.
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
