@@ -67,6 +67,18 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+     - layout: left
+        title: Performance Art, Interpublic Group (IPG)
+        link: https://www.performanceart.com/
+        link_text: performanceart.com
+        sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
+        caption: Feb 2022 - PRESENT FULL TIME
+        quote: >
+         Helping brands around the world make the most effective work, in the most creative way.
+        description: | # this will include new lines to allow paragraphs
+            As the Staff Data Scientist, I lead a portfolio of data projects for client accounts that include BMW, Circle and Veterans United among others at Performance Art, a specialist creative-data advertising agency and division of Interpublic Group (IPG).
+           
       - layout: left
         title: Shelfperks.Com
         link: https://shelfperks.com/
@@ -80,21 +92,7 @@ content:
             - Strategized and built a B2B marketing **small business leads database** with near-ideal accuracy using Google Places API and built a rule engine to weed out B2B leads that have limited propensity to convert.
             - Built market insights to curate the marketing strategy for different customer segments in different geographies. Studied **27 verticals within the retail industry** and identified new growth segments for the retail startup.
             - Strategized **merchant and validation DB** rules to sanitize and standardize product data (including the product category, sub-category, product EAN/ UPC barcode, product name, description, image, etc) for seamless onboarding of new merchants and new products for existing merchants. 
-            
-      - layout: left
-        title: Mayor's Office of the Chief Technology Officer, City of New York
-        link: https://www1.nyc.gov/assets/cto/#/
-        link_text: nyc.gov/cto
-        sub_title: NYC[x] DATA INNOVATION FELLOW
-        caption: Aug 2020 - Mar 2022 PRO BONO
-        quote: >
-         We use technology, innovation, AI, design, research, policy, connectivity and collaboration to make NYC future ready.
-        description: | # this will include new lines to allow paragraphs
-            As an NYC[x] Innovation Fellow with the City of New York, I partnered with various city agencies to rapidly solve NYC’s problems with data. 
-            - Partnered with the Mayor’s Office of Criminal Justice and developed the **Hate Crime Index, a first-of-its-kind data product and algorithm built for NYC** that scores the propensity of hate crime occurrences in the city. The index captures ~75% of all hate crime occurrences in the city by targeting ~50% of the police precincts. 
-            - Partnered with the Mayor’s Office of Operations and built the **NYC block sampling and route optimization algorithms** for the NYC Street Cleanliness and Scorecard program. The algorithms facilitated and operationalized the collection of cleanliness data points for 17000+ additional blocks in the city annually, a 12x improvement for an effort designed to better the cleanliness-based quality of life for all New Yorkers.
-            - Built a **Grant Funding Determination Engine using Machine Learning** for the Department of Cultural Affairs, the largest municipal funder of culture in the US that determines $28 million in funds disbursed for ~2000 cultural organizations in NYC.
-
+      
       - layout: left
         title: U. S. Digital Response
         link: https://www.usdigitalresponse.org/
@@ -106,6 +104,20 @@ content:
         description: | # this will include new lines to allow paragraphs
             - As an Advisor, I mentored and advised Project Leads on what it takes to deliver data and technology projects for Governments, on how to navigate bureaucracies, and on how to manage constraints and deliver tightly scoped projects.
             - As a Pro- Bono Data Scientist, I built a **first-of-its-kind immigrant services directory** that centralizes services for 3 million immigrants living in **Los Angeles County.**
+
+      - layout: left
+        title: City of New York
+        link: https://www1.nyc.gov/assets/cto/#/
+        link_text: nyc.gov/cto
+        sub_title: NYC[x] DATA INNOVATION FELLOW
+        caption: Aug 2020 - Mar 2022 PRO BONO
+        quote: >
+         We use technology, innovation, AI, design, research, policy, connectivity and collaboration to make NYC future ready.
+        description: | # this will include new lines to allow paragraphs
+            As an NYC[x] Innovation Fellow with the City of New York, I partnered with various city agencies to rapidly solve NYC’s problems with data. 
+            - Partnered with the Mayor’s Office of Criminal Justice and developed the **Hate Crime Index, a first-of-its-kind data product and algorithm built for NYC** that scores the propensity of hate crime occurrences in the city. The index captures ~75% of all hate crime occurrences in the city by targeting ~50% of the police precincts. 
+            - Partnered with the Mayor’s Office of Operations and built the **NYC block sampling and route optimization algorithms** for the NYC Street Cleanliness and Scorecard program. The algorithms facilitated and operationalized the collection of cleanliness data points for 17000+ additional blocks in the city annually, a 12x improvement for an effort designed to better the cleanliness-based quality of life for all New Yorkers.
+            - Built a **Grant Funding Determination Engine using Machine Learning** for the Department of Cultural Affairs, the largest municipal funder of culture in the US that determines $28 million in funds disbursed for ~2000 cultural organizations in NYC.
 
 
       - layout: left
