@@ -51,7 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/dhivya.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dhivya. Am a Microsoft-certified business-oriented Artificial Intelligence and Machine Learning leader with **8+ years of full-time industry experience** and **2+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
+  Hi, my name's Dhivya. Am a Microsoft-certified business-oriented **Artificial Intelligence and Machine Learning** leader with **8+ years of full-time industry experience** and **2+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
 
   My specialties include: <mark>Product Data Science</mark>, <mark>Marketing Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Payments</mark>, <mark>Banking</mark>, <mark>Civictech</mark> and <mark>Start-ups</mark>
 
@@ -77,7 +77,7 @@ content:
         quote: >
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
-            As the Staff Data Scientist, I lead a team of Data Scientists and Data Engineers and a portfolio of data projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include BMW, Circle and Veterans United among others at Performance Art, a specialist creative-data advertising agency and division of Interpublic Group (IPG).
+            As the Staff Data Scientist, I lead a team of Data Scientists and Data Engineers and a portfolio of data projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
       
       - layout: left
         title: U. S. Digital Response
