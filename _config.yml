@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dhivya Ravindran
-title: Staff Data Scientist | Machine Learning Engineer | Microsoft Certified Azure Data Scientist
+title: Staff Data Scientist at Performance Art, IPG 🚀 | Machine Learning Engineer | Microsoft Certified Azure Data Scientist
 email: dhivyaravindran@gmail.com
 Phone: +1 (929) 404-6826
 
@@ -53,7 +53,7 @@ about_profile_image: images/dhivya.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dhivya. Am a business-oriented Staff Data Scientist with **8+ years of full-time industry experience** and **2+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
 
-  My specialties include: <mark>Product Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Banking</mark>, <mark>CivicTech</mark> and <mark>Start-ups</mark>
+  My specialties include: <mark>Product Data Science</mark>, <mark>Marketing Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Payments</mark>, <mark>Banking</mark>, <mark>Civictech</mark> and <mark>Start-ups</mark>
 
 content:
   - title: Skills # Title for the section
@@ -73,32 +73,18 @@ content:
         link: https://www.performanceart.com/
         link_text: performanceart.com
         sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
-        caption: Feb 2022 - PRESENT FULL TIME
+        caption: Feb 2022 - PRESENT (> 9 months) FULL TIME
         quote: >
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
             As the Staff Data Scientist, I lead a portfolio of data projects for client accounts that include BMW, Circle and Veterans United among others at Performance Art, a specialist creative-data advertising agency and division of Interpublic Group (IPG).
-           
-      - layout: left
-        title: Shelfperks.Com
-        link: https://shelfperks.com/
-        link_text: shelfperks.com
-        sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
-        caption: Feb 2021 - Jan 2022 CONTRACT
-        quote: >
-         The Only Platform you need to run Retail.
-        description: | # this will include new lines to allow paragraphs
-            As the consulting Head of Data Science and Machine Learning, I consulted at multiple data touchpoints within a San Jose, California-based retail startup- from Marketing to Product.
-            - Strategized and built a B2B marketing **small business leads database** with near-ideal accuracy using Google Places API and built a rule engine to weed out B2B leads that have limited propensity to convert.
-            - Built market insights to curate the marketing strategy for different customer segments in different geographies. Studied **27 verticals within the retail industry** and identified new growth segments for the retail startup.
-            - Strategized **merchant and validation DB** rules to sanitize and standardize product data (including the product category, sub-category, product EAN/ UPC barcode, product name, description, image, etc) for seamless onboarding of new merchants and new products for existing merchants. 
       
       - layout: left
         title: U. S. Digital Response
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
-        sub_title: MULTIPLE (DATA SCIENTIST, ACCOUNT MANAGER, LEAD SCOPER)
-        caption: Apr 2020 - Present PRO BONO
+        sub_title: MULTIPLE PRO BONO (DATA SCIENTIST, ACCOUNT MANAGER, LEAD SCOPER)
+        caption: Apr 2020 - PRESENT (> 2 years 6 months) PRO BONO
         quote: >
          We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
         description: | # this will include new lines to allow paragraphs
@@ -106,11 +92,25 @@ content:
             - As a Pro- Bono Data Scientist, I built a **first-of-its-kind immigrant services directory** that centralizes services for 3 million immigrants living in **Los Angeles County.**
 
       - layout: left
+        title: Shelfperks.Com
+        link: https://shelfperks.com/
+        link_text: shelfperks.com
+        sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
+        caption: Feb 2021 - Jan 2022 (1 year) CONTRACT
+        quote: >
+         The Only Platform you need to run Retail.
+        description: | # this will include new lines to allow paragraphs
+            As the consulting Head of Data Science and Machine Learning, I consulted at multiple data touchpoints within a San Jose, California-based retail startup- from Marketing to Product.
+            - Strategized and built a B2B marketing **small business leads database** with near-ideal accuracy using Google Places API and built a rule engine to weed out B2B leads that have limited propensity to convert.
+            - Built market insights to curate the marketing strategy for different customer segments in different geographies. Studied **27 verticals within the retail industry** and identified new growth segments for the retail startup.
+            - Strategized **merchant and validation DB** rules to sanitize and standardize product data (including the product category, sub-category, product EAN/ UPC barcode, product name, description, image, etc) for seamless onboarding of new merchants and new products for existing merchants. 
+          
+      - layout: left
         title: City of New York
         link: https://www1.nyc.gov/assets/cto/#/
         link_text: nyc.gov/cto
         sub_title: NYC[x] DATA INNOVATION FELLOW
-        caption: Aug 2020 - Mar 2022 PRO BONO
+        caption: Aug 2020 - Mar 2022 (1 year 8 months) PRO BONO
         quote: >
          We use technology, innovation, AI, design, research, policy, connectivity and collaboration to make NYC future ready.
         description: | # this will include new lines to allow paragraphs
@@ -125,7 +125,7 @@ content:
         link: https://www.bankbazaar.com/
         link_text: bankbazaar.com
         sub_title: SENIOR DATA SCIENTIST
-        caption: Feb 2016 - Feb 2018 FULL TIME
+        caption: Feb 2016 - Feb 2018 (2 years 1 month) FULL TIME
         quote: >
          BankBazaar.com is the world's first neutral online marketplace for instant customized rate quotes on loans and credit cards. Shop for loans & cards just like you buy everything else now - online.
         description: | # this will include new lines to allow paragraphs
@@ -143,7 +143,7 @@ content:
         link: http://www.grandatos.com/
         link_text: grandatos.com
         sub_title: CHIEF DATA SCIENTIST
-        caption: Jun 2013 - Jan 2016 FULL TIME
+        caption: Jun 2013 - Jan 2016 (2 years 8 months) FULL TIME
         quote: >
          Grandatos.com is a simple initiative driven by Escomm Group, aimed at delivering Analytics insights, hind-sights and fore-sights for everyday use for everybody.
         description: | # this will include new lines to allow paragraphs
@@ -158,7 +158,7 @@ content:
         link: https://www.ibm.com/services/consulting
         link_text: ibm.com
         sub_title: SOFTWARE ENGINEER
-        caption: Jun 2011 - May 2013 FULL TIME
+        caption: Jun 2011 - May 2013 (2 years) FULL TIME
         quote: >
          IBM Global Business Services® is your business acceleration partner to co-create change and scale impact across your business. Work alongside our experts to reap benefits from connected processes, AI and automation, and a hybrid cloud architecture.
         description: | # this will include new lines to allow paragraphs
@@ -204,10 +204,15 @@ content:
            Sessional Mentor and Instructor for the **PG Program in Artificial Intelligence & Machine Learning** at the UT Austin McCombs School of Business.
             Courses Mentored:
               - Fundamentals of Artificial Intelligence and Machine Learning
-              - Supervised Learning: Regression
-              - Supervised Learning: Classification
+              - Supervised Learning: Regression (Linear Regression, Ridge/ Lasso)
+              - Supervised Learning: Classification (Logistic Regression, Decision Tree, Bagging Model, Random Forest, Gradient Boosting Machine, XGBoost, LightGBM)
               - Ensembling Techniques: Bagging and Boosting Models
-              - Model Tuning, Regularization, Handling Imbalanced Data
+              - Hyperparameter Tuning, ML Pipelines, Encoders
+              - Cross-Validation, Class Imbalance, Regularization
+              - Unsupervised Learning- KMeans and Hierarchical Clustering
+              - Artificial Neural Networks using Tensorflow, Keras
+              - Computer Vision and CNN
+              - Natural Language Processing
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
