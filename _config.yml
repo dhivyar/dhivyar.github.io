@@ -68,7 +68,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
     
-     - layout: left
+      - layout: left
         title: Performance Art, Interpublic Group (IPG)
         link: https://www.performanceart.com/
         link_text: performanceart.com
