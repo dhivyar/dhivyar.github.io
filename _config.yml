@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dhivya Ravindran
-title: Product Data Scientist | Machine Learning Engineer | Microsoft Certified
+title: Staff Data Scientist | Machine Learning Engineer | Microsoft Certified Azure Data Scientist
 email: dhivyaravindran@gmail.com
 Phone: +1 (929) 404-6826
 
@@ -15,7 +15,7 @@ Phone: +1 (929) 404-6826
 darkmode: true
 
 # Social links
-# twitter_username: dhivyahandle
+twitter_username: Dhivya_Risha
 github_username:  maisonml
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -31,9 +31,9 @@ linkedin_username: dhivyar
 
 # Additional icon links
 additional_links:
-- title: Calendly scheduling page
-  icon: fas fa-calendar
-  url: https://calendly.com/dhivyaravindran
+#- title: Calendly scheduling page
+ # icon: fas fa-calendar
+  #url: https://calendly.com/dhivyaravindran
 - title: Medium posts
   icon: fab fa-medium 
   url: https://dhivyaravindran.medium.com/
@@ -51,7 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/dhivya.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dhivya. Am a business-oriented Product Data Scientist with **7+ years of full-time industry experience** and **1+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
+  Hi, my name's Dhivya. Am a business-oriented Staff Data Scientist with **8+ years of full-time industry experience** and **2+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
 
   My specialties include: <mark>Product Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Banking</mark>, <mark>CivicTech</mark> and <mark>Start-ups</mark>
 
@@ -72,7 +72,7 @@ content:
         link: https://shelfperks.com/
         link_text: shelfperks.com
         sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
-        caption: Feb 2021 - Present CONTRACT
+        caption: Feb 2021 - Jan 2022 CONTRACT
         quote: >
          The Only Platform you need to run Retail.
         description: | # this will include new lines to allow paragraphs
@@ -86,7 +86,7 @@ content:
         link: https://www1.nyc.gov/assets/cto/#/
         link_text: nyc.gov/cto
         sub_title: NYC[x] DATA INNOVATION FELLOW
-        caption: Aug 2020 - Present PRO BONO
+        caption: Aug 2020 - Mar 2022 PRO BONO
         quote: >
          We use technology, innovation, AI, design, research, policy, connectivity and collaboration to make NYC future ready.
         description: | # this will include new lines to allow paragraphs
@@ -99,7 +99,7 @@ content:
         title: U. S. Digital Response
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
-        sub_title: PROJECT ADVISOR AND DATA SCIENTIST
+        sub_title: MULTIPLE (DATA SCIENTIST, ACCOUNT MANAGER, LEAD SCOPER)
         caption: Apr 2020 - Present PRO BONO
         quote: >
          We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
