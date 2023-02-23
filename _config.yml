@@ -78,8 +78,17 @@ content:
         quote: >
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
-            As the Staff Data Scientist, I lead a team of Data Scientists and Data Engineers and a portfolio of data projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
-      
+            As the Staff Data Scientist, I lead a team of Data Scientists and Data Engineers and a portfolio of data projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **UPS, Santander Bank, SAS, BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
+              - With DANCE, an AI product, I built a Creative Optimization Model to predict creative performance before campaign deployment. 
+              - With the Martin Agency, I worked on the UPS Impact Score Model to better assess attribution value for each marketing activity and find a performing marketing mix that maximizes ROAS and impact. 
+              - Built a Sustainability Tension Maps product for Martin that uses NLP techniques to do Tension Discovery, Scoring, and Ranking to bridge the gap between sustainable intention and action. 
+              - Worked on the Santander Bank wage inequity campaign to measure pay inequity.
+              - For Veterans United, I designed a Segmentation Model and a Recapture Prediction Model.
+              - For Circle, I worked on the Circle Insights Engine to measure Brand Health with metrics for each category including Brand Trust, Loyalty, Awareness, Usage, and Efficiency. 
+              - With SAS, I built award-winning creative strategies to appeal to more Data Scientists - superhero popularity prediction to create the ideal next superhero, and Roblox new game design.
+              - For BMW Munich, I formulated strategies for retraining the Next Best Vehicle Model and included recommendations that align with BMW’s 2030 sustainability goals like getting rid of the business rules that recommend owners vehicles of the same fuel type rather than BEVs and PHEVs.
+              - Did vendor evaluations for procurement decisions for multiple vendors including Databricks, Shutterstock, InZata, Fivetran, CausaLens, Snowplow, Dash Hudson, Netbase Quid, Adverity, Hightouch, Meltwater, Meltwater APIs, and Dow Jones. 
+              - As a People Manager, I have a human-centered approach to managing people that includes forging strong relationships, unblocking blockages, and avoiding micromanagement.
       - layout: left
         title: U. S. Digital Response
         link: https://www.usdigitalresponse.org/
