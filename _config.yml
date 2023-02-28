@@ -79,17 +79,17 @@ content:
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
             As the Staff Data Scientist, I am leading a team of Data Scientists and Data Engineers and a portfolio of data projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **UPS, Santander Bank, SAS, BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
-              - With DANCE, an AI product, I built a Creative Optimization Model to predict CRM creative performance before campaign deployment. 
-              - With the Martin Agency, I worked on the UPS Impact Score Model to assess the attribution value for each marketing activity and find a performing marketing mix that maximizes ROAS and impact. 
-              - Built a Sustainability Tension Maps product for Martin that uses NLP techniques to do Tension Discovery, Tension Scoring, Tension Ranking, Content Curation and Content Augmentation to bridge the gap between sustainable intention and action. 
-              - Worked on the Santander Bank Wage Inequity Campaign to measure pay inequity.
-              - Designed a Leads Segmentation Model to improve leads quality and a Loan Recapture Prediction Model to predict loan recaptures after closing for Veterans United.
-              - Worked on the Circle Insights Engine to measure Brand Health including Brand Trust, Brand Loyalty, Brand Awareness, Brand Usage and Brand Efficiency for Circle. 
-              - Worked on award-winning creative strategies to make SAS appeal to more Data Scientists - Superhero Popularity Prediction to create the ideal next superhero and Roblox New Game Design.
-              - Formulated strategies for BMW Munich for retraining the Next Best Vehicle Model and included recommendations that align with BMW’s 2030 sustainability goals like getting rid of the business rules that recommend owners vehicles of the same fuel type rather than BEVs and PHEVs.
+              - With DANCE, an AI product, I built a **Creative Optimization Model** to predict CRM creative performance before campaign deployment. 
+              - With the Martin Agency, I worked on the **UPS Impact Score Attribution Model** to assess the attribution value for each marketing activity and find a performing marketing mix that maximizes ROAS and impact. 
+              - Built a **Sustainability Tension Maps** product for Martin that uses NLP techniques to do Tension Discovery, Tension Scoring, Tension Ranking, Content Curation and Content Augmentation to bridge the gap between sustainable intention and action. 
+              - Worked on the **Santander Bank Wage Inequity** Campaign to measure pay inequity.
+              - Designed a **Leads Segmentation Model** to improve leads quality and a **Loan Recapture Prediction Model** to predict loan recaptures after closing for Veterans United.
+              - Worked on the **Circle Insights Engine** to measure Brand Health including Brand Trust, Brand Loyalty, Brand Awareness, Brand Usage and Brand Efficiency for Circle. 
+              - Worked on award-winning creative strategies to make SAS appeal to more Data Scientists - **Superhero Popularity Prediction** to create the ideal next superhero and **Roblox New Game Design**.
+              - Formulated strategies for BMW Munich for retraining the **Next Best Vehicle Model** and included recommendations that align with BMW’s 2030 sustainability goals like getting rid of the business rules that recommend owners vehicles of the same fuel type rather than BEVs and PHEVs.
               - Worked on the Rolls-Royce pitch and designed the metrics to ensure RR remains a house of luxury using the RR House Proximity Score, RR House Affinity Score (similar to the CAS model for BMW), and the RR House Progress Score.
-              - Did vendor evaluations for procurement decisions for multiple vendors including Databricks, Shutterstock, InZata, Fivetran, CausaLens, Snowplow, Dash Hudson, Netbase Quid, Adverity, Hightouch, Meltwater, Meltwater APIs and Dow Jones. 
-              - As a People Manager, I have a human-centered approach to managing people that includes forging strong relationships, unblocking blockages and avoiding micromanagement.
+              - Did vendor evaluations for procurement decisions for multiple vendors including **Databricks, Shutterstock, InZata, Fivetran, CausaLens, Snowplow, Dash Hudson, Netbase Quid, Adverity, Hightouch, Meltwater, Meltwater APIs and Dow Jones**. 
+              - As a **People Manager**, I have a human-centered approach to managing people that includes forging strong relationships, unblocking blockages and avoiding micromanagement.
       - layout: left
         title: U. S. Digital Response
         link: https://www.usdigitalresponse.org/
