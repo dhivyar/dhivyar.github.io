@@ -72,7 +72,7 @@ content:
       - layout: left
         title: |
          <img src="images/ipg.png" width="90" height="40">
-         - Performance Art, Interpublic Group (IPG)
+         Performance Art, Interpublic Group (IPG)
         #title: | <img src="images/ipg.png" width="90" height="40"> Performance Art, Interpublic Group (IPG)
         link: https://www.performanceart.com/
         link_text: performanceart.com
