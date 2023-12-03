@@ -51,8 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Prof.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dhivya. Am a Microsoft-certified business-oriented **Artificial Intelligence and Machine Learning** leader with **9+ years of full-time industry experience** and **2+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
-
+  Hi, my name is Dhivya. Am a Microsoft-certified business-oriented **AI and ML** Leader with **9+ years of full-time experience in Data Science, Machine Learning, AI, and Software Engineering**. I am proficient in leading and growing data teams, with 2+ years of hands-on experience in this role. I have demonstrated experience in delivering end-to-end data projects, encompassing scoping, solutioning, implementation, A/B experimenting, monitoring, and maintenance. My notable achievements include spearheading the development of innovative AI projects such as a Creative Performance Prediction Tool using Deep Learning for the Advertising industry, the world's first Interest Rate Deviation Engine leveraging Machine Learning in Banking, and the City of New York's first Block Sampling and Route Optimization Algorithms in four decades.
   My specialties include: <mark>Product Data Science</mark>, <mark>Marketing Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Payments</mark>, <mark>Banking</mark>, <mark>Civictech</mark> and <mark>Start-ups</mark>
 
 content:
