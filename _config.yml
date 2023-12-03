@@ -21,7 +21,7 @@ github_username:  maisonml
 # dribbble_username: jekyll
 # facebook_username: jekyll
 flickr_username: dhivs
-# instagram_username: jameswgrant
+instagram_username: dhivyaravindran28
 linkedin_username: dhivyar
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -74,11 +74,13 @@ content:
         link: https://www.performanceart.com/
         link_text: performanceart.com
         sub_title: STAFF DATA SCIENTIST
-        caption: Feb 2022 - PRESENT (> 1 year 2 months) FULL TIME
+        caption: Feb 2022 - PRESENT (> 1 year 11 months) FULL TIME
         quote: >
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
-            As the Staff Data Scientist, I am leading a team of Data Scientists and Data Engineers and a portfolio of data projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **UPS, Santander Bank, SAS, BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
+            As the Staff Data Scientist, I am leading a team of Data Scientists and Data Engineers and a portfolio of data projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **Edelman Financial Engines, SAS, UPS, Santander Bank, BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
+              - Pitched, won and built a **Multi-Touch Attribution and Media Mix Model** for Edelman Financial Engines to score the impact of paid and owned media channels, distribute conversion credit accurately, double attribution accuracy and simulate media mixes that optimize conversions/ ROAS on media investments.
+              - Pitched, won and built the **SAS Fandom Score** pilot, to algorithmically score music fans' fandom using Spotify data and social mining.
               - With DANCE, an AI product, I built a **Creative Optimization Model** to predict CRM creative performance before campaign deployment. 
               - With the Martin Agency, I worked on the **UPS Impact Score Attribution Model** to assess the attribution value for each marketing activity and find a performing marketing mix that maximizes ROAS and impact. 
               - Built a **Sustainability Tension Maps** product for Martin that uses NLP techniques to do Tension Discovery, Tension Scoring, Tension Ranking, Content Curation and Content Augmentation to bridge the gap between sustainable intention and action. 
@@ -95,7 +97,7 @@ content:
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
         sub_title: MULTIPLE PRO BONO (DATA SCIENTIST, ACCOUNT MANAGER, LEAD SCOPER)
-        caption: Apr 2020 - PRESENT (> 2 years 11 months) PRO BONO
+        caption: Apr 2020 - PRESENT (> 3 years 8 months) PRO BONO
         quote: >
          We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
         description: | # this will include new lines to allow paragraphs
