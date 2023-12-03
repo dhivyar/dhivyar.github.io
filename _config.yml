@@ -70,7 +70,7 @@ content:
     content:
     
       - layout: left
-        title: Performance Art, Interpublic Group (IPG)
+        title: <img src="images/ipg.png" width="60" height="40"> Performance Art, Interpublic Group (IPG)
         link: https://www.performanceart.com/
         link_text: performanceart.com
         sub_title: STAFF DATA SCIENTIST
@@ -93,7 +93,7 @@ content:
               - Did vendor evaluations for procurement decisions for multiple vendors including **Databricks, Shutterstock, InZata, Fivetran, CausaLens, Snowplow, Dash Hudson, Netbase Quid, Adverity, Hightouch, Meltwater, Meltwater APIs and Dow Jones**. 
               - As a **People Manager**, I have a human-centered approach to managing people that includes forging strong relationships, unblocking blockages and avoiding micromanagement.
       - layout: left
-        title: U. S. Digital Response
+        title: <img src="images/usdr.svg" width="80" height="40"> U. S. Digital Response
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
         sub_title: MULTIPLE PRO BONO (DATA SCIENTIST, ACCOUNT MANAGER, LEAD SCOPER)
@@ -106,7 +106,7 @@ content:
             - As the Account Manager and Lead Scoper, I was involved with the creation of the technical scoping documents, establishment of strong relationships with the partners and placement of Product teams (Engineers, PMs, Designers and UX Researchers) for the City of Syracuse' Innovation and Data Office, the City of St. Louis' Department of Home Services and the City of St. Louis' Elections Office.
 
       - layout: left
-        title: Shelfperks.Com
+        title: <img src="images/shelfperks_logo.svg" width="80" height="40"> Shelfperks.Com
         link: https://shelfperks.com/
         link_text: shelfperks.com
         sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
@@ -120,7 +120,7 @@ content:
             - Strategized **merchant and validation DB** rules to sanitize and standardize product data (including the product category, sub-category, product EAN/ UPC barcode, product name, description, image, etc) for seamless onboarding of new merchants and new products for existing merchants. 
           
       - layout: left
-        title: City of New York
+        title: <img src="images/bankbazaar-logo.svg" width="80" height="40"> City of New York
         link: https://www1.nyc.gov/assets/cto/#/
         link_text: nyc.gov/cto
         sub_title: NYC[x] DATA INNOVATION FELLOW
@@ -135,7 +135,7 @@ content:
 
 
       - layout: left
-        title: <img src="images/bank_bazaar_logo.jpeg" width="60" height="40"> BankBazaar.Com
+        title: <img src="images/bankbazaar-logo.svg" width="80" height="40"> BankBazaar.Com
         link: https://www.bankbazaar.com/
         link_text: bankbazaar.com
         sub_title: SENIOR DATA SCIENTIST
