@@ -268,6 +268,39 @@ content:
               - Computer Vision and CNN
               - Natural Language Processing
               
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IIM Calcutta
+        # caption: 
+        sub_title: EXECUTIVE PROGRAM IN GLOBAL BUSINESS MANAGEMENT (EPGBM)
+        quote: >
+          Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a top business school in Asia located in Joka, Kolkata, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the Government of India in 2017. 
+        description: | # this will include new lines to allow paragraphs
+          During my time at IIM Calcutta I secured "Excellent" grade in 8 out of 12 modules.
+            Courses:
+            - Financial Management
+            - Quantitative Analysis
+            - Operations Management
+            - Strategy Management
+            - International Business
+
+      - layout: left
+        title: College of Engineering Guindy, Anna University
+        # caption: 2009 - 2011
+        sub_title: MASTERS IN INDUSTRIAL ENGINEERING (M.E.)
+        quote: >
+          College of Engineering, Guindy (CEG) is a public engineering college in Chennai, India and is Asia's oldest technical institution, founded in 1794. It is also the oldest technical institution to be established outside Europe.
+        description: | # this will include new lines to allow paragraphs
+          During my time at CEG I secured a CGPA of 8.91/ 10.
+            Courses:
+            - Probability and Statistics
+            - Operations Research
+            - Simulation Modeling and Analysis
+            - Advanced Optimization Algorithms
+            - Design and Analysis of Experiments
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -310,39 +343,6 @@ content:
               - [Classification Model Performance Metrics](https://flic.kr/s/aHsmWAEaR3){:target="_blank"}
               - [Regularization](https://flic.kr/s/aHsmWzHb4V){:target="_blank"}
               - [Hyperparameter Tuning](https://flic.kr/s/aHsmWzxk8R){:target="_blank"}
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: IIM Calcutta
-        # caption: 
-        sub_title: EXECUTIVE PROGRAM IN GLOBAL BUSINESS MANAGEMENT (EPGBM)
-        quote: >
-          Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a top business school in Asia located in Joka, Kolkata, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the Government of India in 2017. 
-        description: | # this will include new lines to allow paragraphs
-          During my time at IIM Calcutta I secured "Excellent" grade in 8 out of 12 modules.
-            Courses:
-            - Financial Management
-            - Quantitative Analysis
-            - Operations Management
-            - Strategy Management
-            - International Business
-
-      - layout: left
-        title: College of Engineering Guindy, Anna University
-        # caption: 2009 - 2011
-        sub_title: MASTERS IN INDUSTRIAL ENGINEERING (M.E.)
-        quote: >
-          College of Engineering, Guindy (CEG) is a public engineering college in Chennai, India and is Asia's oldest technical institution, founded in 1794. It is also the oldest technical institution to be established outside Europe.
-        description: | # this will include new lines to allow paragraphs
-          During my time at CEG I secured a CGPA of 8.91/ 10.
-            Courses:
-            - Probability and Statistics
-            - Operations Research
-            - Simulation Modeling and Analysis
-            - Advanced Optimization Algorithms
-            - Design and Analysis of Experiments
 
   - title: Recommendations
     layout: text
