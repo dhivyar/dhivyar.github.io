@@ -70,7 +70,7 @@ content:
     content:
     
       - layout: left
-        title: <img src="images/ipg.png" width="60" height="40"> Performance Art, Interpublic Group (IPG)
+        title: <img src="images/ipg.png" width="80" height="40"> Performance Art, Interpublic Group (IPG)
         link: https://www.performanceart.com/
         link_text: performanceart.com
         sub_title: STAFF DATA SCIENTIST
@@ -93,7 +93,7 @@ content:
               - Did vendor evaluations for procurement decisions for multiple vendors including **Databricks, Shutterstock, InZata, Fivetran, CausaLens, Snowplow, Dash Hudson, Netbase Quid, Adverity, Hightouch, Meltwater, Meltwater APIs and Dow Jones**. 
               - As a **People Manager**, I have a human-centered approach to managing people that includes forging strong relationships, unblocking blockages and avoiding micromanagement.
       - layout: left
-        title: <img src="images/usdr.svg" width="80" height="40"> U. S. Digital Response
+        title: <img src="images/usdr.svg" width="105" height="60"> U. S. Digital Response
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
         sub_title: MULTIPLE PRO BONO (DATA SCIENTIST, ACCOUNT MANAGER, LEAD SCOPER)
@@ -106,7 +106,7 @@ content:
             - As the Account Manager and Lead Scoper, I was involved with the creation of the technical scoping documents, establishment of strong relationships with the partners and placement of Product teams (Engineers, PMs, Designers and UX Researchers) for the City of Syracuse' Innovation and Data Office, the City of St. Louis' Department of Home Services and the City of St. Louis' Elections Office.
 
       - layout: left
-        title: <img src="images/shelfperks_logo.svg" width="80" height="40"> Shelfperks.Com
+        title: <img src="images/shelfperks_logo.svg" width="100" height="60"> Shelfperks.Com
         link: https://shelfperks.com/
         link_text: shelfperks.com
         sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
@@ -135,7 +135,7 @@ content:
 
 
       - layout: left
-        title: <img src="images/bankbazaar-logo.svg" width="80" height="40"> BankBazaar.Com
+        title: <img src="images/bankbazaar-logo.svg" width="100" height="60"> BankBazaar.Com
         link: https://www.bankbazaar.com/
         link_text: bankbazaar.com
         sub_title: SENIOR DATA SCIENTIST
@@ -186,7 +186,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <img src="images/azure.png" width="60" height="60"> Microsoft Certified Azure Data Scientist Associate
+        title: <img src="images/azure.png" width="80" height="80"> Microsoft Certified Azure Data Scientist Associate
         #link: https://maisonml.github.io/
         #link_text: maisonml.github.io
         additional_links:
@@ -200,7 +200,7 @@ content:
            [Azure Data Scientist Associates](https://www.credly.com/badges/cafbdc40-f673-4485-967f-892b570876c2/public_url) should have subject matter expertise applying Data Science and Machine Learning to implement and run machine learning workloads on Azure. Responsibilities for this role include planning and creating a suitable working environment for Data Science workloads on Azure, running data experiments and training predictive models. In addition, Associates manage, optimize, and deploy machine learning models into production. Associates with this certification have demonstrated knowledge and experience in data science and using **Azure Machine Learning Studio** and **Azure Databricks.**
       
       - layout: top-middle
-        title: <img src="images/databricks_genai.png" width="60" height="60"> Generative AI Fundamentals
+        title: <img src="images/databricks_genai.png" width="80" height="80"> Generative AI Fundamentals
         #link: https://maisonml.github.io/
         #link_text: maisonml.github.io
         additional_links:
@@ -217,7 +217,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <img src="images/MIT_logo.webp" width="40" height="40"> Mentor AI/ ML
+        title: <img src="images/MIT_logo.webp" width="80" height="80"> Mentor AI/ ML
         caption: April 2023 - Present CONTRACT
         link: https://professionalonline2.mit.edu/no-code-artificial-intelligence-machine-learning-online-program
         link_text: mit.edu/aiml
@@ -243,7 +243,7 @@ content:
               - Computer Vision Methods
               
       - layout: top-middle
-        title: <img src="images/ut.png" width="40" height="40"> Mentor AI/ ML
+        title: <img src="images/ut.png" width="80" height="80"> Mentor AI/ ML
         caption: July 2021 - Dec 2022 CONTRACT
         link: https://la.utexas.edu/greatlearning/uta-artificial-intelligence-machine-learning.html?&utm_source=Google&utm_medium=search&utm_campaign=AIML_Int_Brand_RLSA_Exact_US&adgroup_id=117337664374&campaign_id=12466767317&Keyword=ut%20austin%20pgp%20aiml&placement=&gclid=CjwKCAjwhaaKBhBcEiwA8acsHCkNY23ca2TK2KAIcTJ0PJr6oP9GLgfUKUn3C7XA9PoSlW5ykIBotBoCS9QQAvD_BwE
         link_text: utexas.edu/aiml
