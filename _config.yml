@@ -198,13 +198,26 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
            [Azure Data Scientist Associates](https://www.credly.com/badges/cafbdc40-f673-4485-967f-892b570876c2/public_url) should have subject matter expertise applying Data Science and Machine Learning to implement and run machine learning workloads on Azure. Responsibilities for this role include planning and creating a suitable working environment for Data Science workloads on Azure, running data experiments and training predictive models. In addition, Associates manage, optimize, and deploy machine learning models into production. Associates with this certification have demonstrated knowledge and experience in data science and using **Azure Machine Learning Studio** and **Azure Databricks.**
+      
+      - layout: - layout: top-middle
+        title: <img src="images/azure.png" width="40" height="40"> Generative AI Fundamentals
+        #link: https://maisonml.github.io/
+        #link_text: maisonml.github.io
+        additional_links:
+          - title:  credly.com/badges
+            icon: fab fa-databricks
+            url: https://credentials.databricks.com/067c5bc6-bd42-45f5-bcb3-8addfb799bf3#gs.14qffn
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # description: | # this will include new lines to allow paragraphs
 
   - title: Mentoring Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <img src="images/ut.png" width="40" height="40"> Mentor AI/ ML
-        caption: April 2023 - Present FREELANCE CONTRACT
+        title: <img src="images/MIT_logo.webp" width="40" height="40"> Mentor AI/ ML
+        caption: April 2023 - Present CONTRACT
         link: https://professionalonline2.mit.edu/no-code-artificial-intelligence-machine-learning-online-program
         link_text: mit.edu/aiml
         additional_links:
@@ -215,7 +228,8 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-           Sessional Mentor for the No Code AI and ML program at MIT
+           Sessional Mentor for the **No Code AI and ML program at MIT**.
+           
             Courses Mentored:
               - AI Landscape
               - Data Exploration - Structured Data
@@ -229,7 +243,7 @@ content:
               
       - layout: top-middle
         title: <img src="images/ut.png" width="40" height="40"> Mentor AI/ ML
-        caption: July 2021 - Dec 2022 FREELANCE CONTRACT
+        caption: July 2021 - Dec 2022 CONTRACT
         link: https://la.utexas.edu/greatlearning/uta-artificial-intelligence-machine-learning.html?&utm_source=Google&utm_medium=search&utm_campaign=AIML_Int_Brand_RLSA_Exact_US&adgroup_id=117337664374&campaign_id=12466767317&Keyword=ut%20austin%20pgp%20aiml&placement=&gclid=CjwKCAjwhaaKBhBcEiwA8acsHCkNY23ca2TK2KAIcTJ0PJr6oP9GLgfUKUn3C7XA9PoSlW5ykIBotBoCS9QQAvD_BwE
         link_text: utexas.edu/aiml
         additional_links:
@@ -241,6 +255,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
            Sessional Mentor and Instructor for the **PG Program in Artificial Intelligence & Machine Learning** at the UT Austin McCombs School of Business.
+            
             Courses Mentored:
               - Fundamentals of Artificial Intelligence and Machine Learning
               - Supervised Learning: Regression (Linear Regression, Ridge/ Lasso)
@@ -301,7 +316,7 @@ content:
     content:
       - layout: left
         title: IIM Calcutta
-        caption: 2012 - 2014
+        # caption: 
         sub_title: EXECUTIVE PROGRAM IN GLOBAL BUSINESS MANAGEMENT (EPGBM)
         quote: >
           Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a top business school in Asia located in Joka, Kolkata, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the Government of India in 2017. 
@@ -316,7 +331,7 @@ content:
 
       - layout: left
         title: College of Engineering Guindy, Anna University
-        caption: 2009 - 2011
+        # caption: 2009 - 2011
         sub_title: MASTERS IN INDUSTRIAL ENGINEERING (M.E.)
         quote: >
           College of Engineering, Guindy (CEG) is a public engineering college in Chennai, India and is Asia's oldest technical institution, founded in 1794. It is also the oldest technical institution to be established outside Europe.
@@ -340,8 +355,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science and Machine Learning some of my other interests and hobbies are:
-      - Acrylic painting 👩‍🎨
-      - Interior designing and decorating 🏡
+      - Acrylic painting and #GenAI art generating 👩‍🎨
+      - Home decorating 🏡
       - Traveling and taking long road trips 🚗
       - Watching Tennis 🎾
 
