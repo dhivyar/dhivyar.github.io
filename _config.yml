@@ -135,7 +135,7 @@ content:
 
 
       - layout: left
-        title: BankBazaar.Com
+        title: <img src="images/bank_bazaar_logo.jpeg" width="60" height="40"> BankBazaar.Com
         link: https://www.bankbazaar.com/
         link_text: bankbazaar.com
         sub_title: SENIOR DATA SCIENTIST
@@ -186,7 +186,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <img src="images/azure.png" width="40" height="40"> Microsoft Certified Azure Data Scientist Associate
+        title: <img src="images/azure.png" width="60" height="60"> Microsoft Certified Azure Data Scientist Associate
         #link: https://maisonml.github.io/
         #link_text: maisonml.github.io
         additional_links:
@@ -200,7 +200,7 @@ content:
            [Azure Data Scientist Associates](https://www.credly.com/badges/cafbdc40-f673-4485-967f-892b570876c2/public_url) should have subject matter expertise applying Data Science and Machine Learning to implement and run machine learning workloads on Azure. Responsibilities for this role include planning and creating a suitable working environment for Data Science workloads on Azure, running data experiments and training predictive models. In addition, Associates manage, optimize, and deploy machine learning models into production. Associates with this certification have demonstrated knowledge and experience in data science and using **Azure Machine Learning Studio** and **Azure Databricks.**
       
       - layout: top-middle
-        title: <img src="images/genai.png" width="40" height="40"> Generative AI Fundamentals
+        title: <img src="images/databricks_genai.png" width="60" height="60"> Generative AI Fundamentals
         #link: https://maisonml.github.io/
         #link_text: maisonml.github.io
         additional_links:
