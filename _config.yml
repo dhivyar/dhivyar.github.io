@@ -276,7 +276,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: IIM Calcutta
+        title: <img src="images/iimc.svg" width="80" height="80"> IIM Calcutta
         # caption: 
         sub_title: EXECUTIVE PROGRAM IN GLOBAL BUSINESS MANAGEMENT (EPGBM)
         quote: >
@@ -291,7 +291,7 @@ content:
             - International Business
 
       - layout: left
-        title: College of Engineering Guindy, Anna University
+        title: <img src="images/au.svg" width="80" height="80"> College of Engineering Guindy, Anna University
         # caption: 2009 - 2011
         sub_title: MASTERS IN INDUSTRIAL ENGINEERING (M.E.)
         quote: >
