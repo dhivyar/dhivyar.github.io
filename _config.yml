@@ -211,7 +211,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs 
-        Build foundational knowledge of generative AI, including large language models (LLMs)
+           Build foundational knowledge of generative AI, including large language models (LLMs)
 
   - title: Mentoring Experience # Title for the section
     layout: list # Type of content section (list/text)
