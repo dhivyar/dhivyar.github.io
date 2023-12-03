@@ -15,7 +15,7 @@ Phone: +1 (929) 404-6826
 darkmode: true
 
 # Social links
-twitter_username: Dhivya_Risha
+# twitter_username: Dhivya_Risha
 github_username:  maisonml
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -51,7 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Prof.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dhivya. Am a Microsoft-certified business-oriented **Artificial Intelligence and Machine Learning** leader with **8+ years of full-time industry experience** and **2+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
+  Hi, my name's Dhivya. Am a Microsoft-certified business-oriented **Artificial Intelligence and Machine Learning** leader with **9+ years of full-time industry experience** and **2+ years of pro bono experience** in full stack Data Science, Machine Learning, Data Analytics and Product Management- starting with data collection from structured, semi-structured and unstructured data sources, to crunching data for insights, building Machine Learning models and algorithms, deploying the models/ algorithms into products and solutions, A/B testing, continuous monitoring and maintenance of the ML models and solutions.
 
   My specialties include: <mark>Product Data Science</mark>, <mark>Marketing Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Payments</mark>, <mark>Banking</mark>, <mark>Civictech</mark> and <mark>Start-ups</mark>
 
@@ -78,7 +78,7 @@ content:
         quote: >
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
-            As the Staff Data Scientist, I am leading a team of Data Scientists and Data Engineers and a portfolio of data projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **Edelman Financial Engines, SAS, UPS, Santander Bank, BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
+            As the Staff Data Scientist, I am leading a team of Data Scientists and Data Engineers that deploys 260k+ CRM emails per month on the Salesforce Marketing Cloud and a portfolio of AI/ ML projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **Edelman Financial Engines, SAS, UPS, Santander Bank, BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
               - Pitched, won and built a **Multi-Touch Attribution and Media Mix Model** for Edelman Financial Engines to score the impact of paid and owned media channels, distribute conversion credit accurately, double attribution accuracy and simulate media mixes that optimize conversions/ ROAS on media investments.
               - Pitched, won and built the **SAS Fandom Score** pilot, to algorithmically score music fans' fandom using Spotify data and social mining.
               - With DANCE, an AI product, I built a **Creative Optimization Model** to predict CRM creative performance before campaign deployment. 
@@ -204,7 +204,32 @@ content:
     content:
       - layout: top-middle
         title: <img src="images/ut.png" width="40" height="40"> Mentor AI/ ML
-        caption: July 2021 - Present CONTRACT
+        caption: April 2023 - Present FREELANCE CONTRACT
+        link: https://professionalonline2.mit.edu/no-code-artificial-intelligence-machine-learning-online-program
+        link_text: mit.edu/aiml
+        additional_links:
+          - #title:  credly.com/badges
+            #icon: fab fa-microsoft
+            #url: https://www.credly.com/badges/cafbdc40-f673-4485-967f-892b570876c2/public_url
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+           Sessional Mentor for the No Code AI and ML program at MIT
+            Courses Mentored:
+              - AI Landscape
+              - Data Exploration - Structured Data
+              - Prediction Methods - Regression
+              - Decision Systems
+              - Data Exploration - Unstructured Data
+              - Recommendation Systems
+              - Data Exploration - Temporal Data
+              - Prediction Methods - Deep Learning and Neural Networks
+              - Computer Vision Methods
+              
+      - layout: top-middle
+        title: <img src="images/ut.png" width="40" height="40"> Mentor AI/ ML
+        caption: July 2021 - Dec 2022 FREELANCE CONTRACT
         link: https://la.utexas.edu/greatlearning/uta-artificial-intelligence-machine-learning.html?&utm_source=Google&utm_medium=search&utm_campaign=AIML_Int_Brand_RLSA_Exact_US&adgroup_id=117337664374&campaign_id=12466767317&Keyword=ut%20austin%20pgp%20aiml&placement=&gclid=CjwKCAjwhaaKBhBcEiwA8acsHCkNY23ca2TK2KAIcTJ0PJr6oP9GLgfUKUn3C7XA9PoSlW5ykIBotBoCS9QQAvD_BwE
         link_text: utexas.edu/aiml
         additional_links:
@@ -227,7 +252,7 @@ content:
               - Artificial Neural Networks using Tensorflow, Keras
               - Computer Vision and CNN
               - Natural Language Processing
-
+              
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
