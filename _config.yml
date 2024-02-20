@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dhivya Ravindran
-title: Staff Data Scientist at Performance Art, IPG 🚀 | Machine Learning Engineer | Microsoft Certified Azure Data Scientist
+title: Staff Data Scientist at Performance Art, IPG 🚀 | Microsoft Certified Azure Data Scientist | ML, Generative AI
 email: dhivyaravindran@gmail.com
 Phone: +1 (929) 404-6826
 
@@ -51,7 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Prof.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Dhivya. Am a Microsoft-certified business-oriented **AI and ML** Leader with **9+ years of full-time experience in Data Science, Machine Learning, AI, and Software Engineering**. I am proficient in leading and growing data teams, with 2+ years of hands-on experience in this role. I have demonstrated experience in delivering end-to-end data projects, encompassing scoping, solutioning, implementation, A/B experimenting, monitoring, and maintenance. My notable achievements include spearheading the development of innovative AI projects such as a Creative Performance Prediction Tool using Deep Learning for the Advertising industry, the world's first Interest Rate Deviation Engine leveraging Machine Learning in Banking, and the City of New York's first Block Sampling and Route Optimization Algorithms in four decades.
+  Hi, my name is Dhivya. I am a Microsoft-certified AI and ML Leader with over 10 years of full-time experience in Data Science, AI, Data Engineering, Analytics, and Software Engineering. I have a proven track record in leading and growing high-performing data teams, backed by 3+ years of hands-on leadership experience. I have been successful in driving end-to-end data projects from scoping to building, and implementation, including A/B experimentation, monitoring, and maintenance. My key achievements involve spearheading the development of groundbreaking AI projects, such as a Creative Performance Prediction Tool using Deep Learning in Advertising, the world’s first Interest Rate Deviation Engine using Machine Learning in Banking, and delivering the City of New York’s first Block Sampling and Route Optimization Algorithms in four decades. 
   
   My specialties include: <mark>Product Data Science</mark>, <mark>Marketing Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Payments</mark>, <mark>Banking</mark>, <mark>Civictech</mark> and <mark>Start-ups</mark>
 
@@ -99,8 +99,8 @@ content:
         title: <img src="images/usdr.svg" width="105" height="60"> U. S. Digital Response
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
-        sub_title: MULTIPLE PRO BONO (DATA SCIENTIST, ACCOUNT MANAGER, LEAD SCOPER)
-        caption: Apr 2020 - PRESENT (> 3 years 8 months)
+        sub_title: PRO BONO DATA SCIENTIST
+        caption: Apr 2020 - PRESENT (> 3 years 10 months)
         quote: >
          We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
         description: | # this will include new lines to allow paragraphs
@@ -221,7 +221,7 @@ content:
     content:
       - layout: top-middle
         title: <img src="images/MIT_logo.webp" width="80" height="80"> Mentor AI/ ML
-        caption: April 2023 - Present CONTRACT
+        caption: April 2023 - Present FREELANCE
         link: https://professionalonline2.mit.edu/no-code-artificial-intelligence-machine-learning-online-program
         link_text: mit.edu/aiml
         additional_links:
@@ -247,7 +247,7 @@ content:
               
       - layout: top-middle
         title: <img src="images/ut.png" width="80" height="80"> Mentor AI/ ML
-        caption: July 2021 - Dec 2022 CONTRACT
+        caption: July 2021 - Dec 2022 FREELANCE
         link: https://la.utexas.edu/greatlearning/uta-artificial-intelligence-machine-learning.html?&utm_source=Google&utm_medium=search&utm_campaign=AIML_Int_Brand_RLSA_Exact_US&adgroup_id=117337664374&campaign_id=12466767317&Keyword=ut%20austin%20pgp%20aiml&placement=&gclid=CjwKCAjwhaaKBhBcEiwA8acsHCkNY23ca2TK2KAIcTJ0PJr6oP9GLgfUKUn3C7XA9PoSlW5ykIBotBoCS9QQAvD_BwE
         link_text: utexas.edu/aiml
         additional_links:
