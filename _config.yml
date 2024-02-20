@@ -56,15 +56,27 @@ about_content: | # this will include new lines to allow paragraphs
   My specialties include: <mark>Product Data Science</mark>, <mark>Marketing Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Payments</mark>, <mark>Banking</mark>, <mark>Civictech</mark> and <mark>Start-ups</mark>
 
 content:
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        description: | # this will include new lines to allow paragraphs
-        | Skills:
-          - <mark>Python</mark> <mark>Pandas</mark> <mark>Scikit-Learn</mark> <mark>NumPy</mark> <mark>Seaborn</mark> <mark>Matplotlib</mark> <mark>Jupyter Notebook</mark> <mark>JupyterLab</mark> <mark>VS Code</mark> <mark>R</mark> <mark>R Studio</mark> <mark>R Markdown</mark> <mark>R Shiny</mark> <mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>) <mark>API Integrations</mark> <mark>SDKs</mark> 
-          - <mark>Machine Learning</mark> <mark>Linear Regression</mark> <mark>Logistic Regression</mark> <mark>Decision Tree</mark> <mark>Bagging Classifier/ Regressor</mark> <mark>Random Forest</mark> <mark>AdaBoost</mark> <mark>Gradient Boosting Machine</mark> <mark>XGBoost</mark> <mark>LightGBM</mark> <mark>CatBoost</mark> <mark>k-Nearest Neighbors</mark> <mark>k-Means Clustering</mark> <mark>Hierarchical Clustering</mark> <mark>Deep Learning</mark> <mark>Natural Language Processing</mark> <mark>NLP Sentiment Scoring</mark> <mark>Artificial Neural Networks</mark> <mark>Convolutional Neural Networks</mark> <mark>Tensorflow</mark> <mark>Keras</mark> <mark>Recommendation Engines</mark> <mark>Segmentation Models</mark> <mark>A/B Experiments</mark> <mark>Multivariate Experiments</mark> <mark>Multi-armed Bandit Experiments</mark> <mark>ETL/ Data Pipelines Architecting</mark>
-          - <mark>Git</mark> <mark>GitHub</mark> <mark>Version Control</mark> <mark>MLOps</mark> <mark>AWS EC2</mark> <mark>AWS Redshift</mark> <mark>AWS S3</mark> <mark>AWS Lambda</mark> <mark>Azure Machine Learning Studio</mark> <mark>Azure Notebooks</mark> <mark>Azure Workspaces</mark> <mark>Azure Compute Instances</mark> <mark>Azure Functions</mark> <mark>Azure Container Instances</mark> <mark>Azure Kubernetes Services</mark> <mark>Databricks Lakehouse</mark> <mark>Databricks Delta Lake</mark> <mark>Databricks Notebooks</mark> <mark>GCP Vertex AI</mark> <mark>GCP Vertex AI Workbench</mark> <mark>GCP Compute Engine</mark> <mark>GCP Vertex AI Tensorboard</mark> <mark>ArcGIS</mark> <mark>Tableau</mark> <mark>Carto</mark> <mark>Metabase</mark>
+  - title: Skills
+  layout: list
+  content:
+    - layout: top-middle
+      description: |
+        - Programming Languages: <mark>Python</mark> (<mark>Pandas</mark>, <mark>Scikit-Learn</mark>, <mark>Seaborn</mark>, <mark>Matplotlib</mark>, <mark>NumPy</mark>, <mark>SciPy</mark>, <mark>Jupyter</mark>, <mark>VS Code</mark>), <mark>R</mark> (<mark>R Studio</mark>, <mark>R Markdown</mark>, <mark>R Shiny</mark>)
+        - Machine Learning: <mark>Linear Regression</mark>, <mark>Ridge/ Lasso</mark>, <mark>Logistic Regression</mark>, <mark>Decision Tree</mark>, <mark>Bagging</mark>, <mark>Random Forest</mark>, <mark>AdaBoost</mark>, <mark>Gradient Boosting Machine</mark>, <mark>XGBoost</mark>, <mark>LightGBM</mark>, <mark>CatBoost</mark>, <mark>k-NN</mark>, <mark>Clustering Techniques</mark>, <mark>Bayesian Belief Network</mark>, <mark>Markov Chains</mark>, <mark>Recommendation Engines</mark>
+        - Deep Learning and GenAI: <mark>Artificial Neural Networks</mark>, <mark>Convolutional Neural Networks</mark>, <mark>TensorFlow</mark>, <mark>Keras</mark>, <mark>NLP</mark>, <mark>NLP Sentiment Scoring</mark>, <mark>Latent Dirichlet Allocation</mark>, <mark>GANs</mark>, <mark>Transformers</mark>, <mark>Attention Mechanism</mark>
+        - Data Engineering: <mark>SQL</mark> (<mark>Workbench</mark>, <mark>SQL Server</mark>), <mark>ETL</mark>, <mark>Data Pipelines</mark>, <mark>FTP</mark>, <mark>API Integrations</mark>, <mark>Python SDKs</mark>, <mark>Apache Airflow</mark>
+        - Cloud Platforms: <mark>Azure</mark> (<mark>AI Studio</mark>, <mark>Notebooks</mark>, <mark>Compute Instances</mark>, <mark>Blob Storage</mark>, <mark>Cognitive Services</mark>, <mark>MLOps</mark>), <mark>GCP</mark> (<mark>Vertex AI</mark>, <mark>Vertex AI Workbench</mark>, <mark>Compute Engine</mark>, <mark>Tensorboard</mark>), <mark>Databricks</mark> (<mark>Notebooks</mark>, <mark>DBFS</mark>), <mark>AWS</mark> (<mark>Sagemaker</mark>, <mark>EC2</mark>, <mark>Redshift</mark>, <mark>S3</mark>, <mark>Lambda</mark>, <mark>Glue</mark>), <mark>Tableau</mark>, <mark>SFMC</mark>
+        - MLOps: <mark>MLflow</mark>, <mark>Kubeflow</mark>
+        - Experimentation: <mark>A/B Testing</mark>, <mark>Multivariate Experimentation</mark>
+
+  #- title: Skills # Title for the section
+   # layout: list # Type of content section (list/text)
+    #content:
+     # - layout: top-middle
+      #  description: | # this will include new lines to allow paragraphs
+       #   - <mark>Python</mark> <mark>Pandas</mark> <mark>Scikit-Learn</mark> <mark>NumPy</mark> <mark>Seaborn</mark> <mark>Matplotlib</mark> <mark>Jupyter Notebook</mark> <mark>JupyterLab</mark> <mark>VS Code</mark> <mark>R</mark> <mark>R Studio</mark> <mark>R Markdown</mark> <mark>R Shiny</mark> <mark>SQL</mark> (<mark>MySQL</mark>, <mark>Postgres</mark>) <mark>API Integrations</mark> <mark>SDKs</mark> 
+        #  - <mark>Machine Learning</mark> <mark>Linear Regression</mark> <mark>Logistic Regression</mark> <mark>Decision Tree</mark> <mark>Bagging Classifier/ Regressor</mark> <mark>Random Forest</mark> <mark>AdaBoost</mark> <mark>Gradient Boosting Machine</mark> <mark>XGBoost</mark> <mark>LightGBM</mark> <mark>CatBoost</mark> <mark>k-Nearest Neighbors</mark> <mark>k-Means Clustering</mark> <mark>Hierarchical Clustering</mark> <mark>Deep Learning</mark> <mark>Natural Language Processing</mark> <mark>NLP Sentiment Scoring</mark> <mark>Artificial Neural Networks</mark> <mark>Convolutional Neural Networks</mark> <mark>Tensorflow</mark> <mark>Keras</mark> <mark>Recommendation Engines</mark> <mark>Segmentation Models</mark> <mark>A/B Experiments</mark> <mark>Multivariate Experiments</mark> <mark>Multi-armed Bandit Experiments</mark> <mark>ETL/ Data Pipelines Architecting</mark>
+         # - <mark>Git</mark> <mark>GitHub</mark> <mark>Version Control</mark> <mark>MLOps</mark> <mark>AWS EC2</mark> <mark>AWS Redshift</mark> <mark>AWS S3</mark> <mark>AWS Lambda</mark> <mark>Azure Machine Learning Studio</mark> <mark>Azure Notebooks</mark> <mark>Azure Workspaces</mark> <mark>Azure Compute Instances</mark> <mark>Azure Functions</mark> <mark>Azure Container Instances</mark> <mark>Azure Kubernetes Services</mark> <mark>Databricks Lakehouse</mark> <mark>Databricks Delta Lake</mark> <mark>Databricks Notebooks</mark> <mark>GCP Vertex AI</mark> <mark>GCP Vertex AI Workbench</mark> <mark>GCP Compute Engine</mark> <mark>GCP Vertex AI Tensorboard</mark> <mark>ArcGIS</mark> <mark>Tableau</mark> <mark>Carto</mark> <mark>Metabase</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
