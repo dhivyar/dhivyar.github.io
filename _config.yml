@@ -21,7 +21,7 @@ github_username:  maisonml
 # dribbble_username: jekyll
 # facebook_username: jekyll
 flickr_username: dhivs
-instagram_username: dhivyaravindran28
+#instagram_username: dhivyaravindran28
 linkedin_username: dhivyar
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -77,11 +77,11 @@ content:
         link: https://www.performanceart.com/
         link_text: performanceart.com
         sub_title: STAFF DATA SCIENTIST
-        caption: Feb 2022 - PRESENT (> 1 year 11 months) FULL TIME
+        caption: Feb 2022 - PRESENT (> 2 year 1 months)
         quote: >
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
-            As the Staff Data Scientist, I am leading a team of Data Scientists and Data Engineers that deploys 260k+ CRM emails per month on the Salesforce Marketing Cloud and a portfolio of AI/ ML projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **Edelman Financial Engines, SAS, UPS, Santander Bank, BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
+            As the Staff Data Scientist, I am leading a team of Data Scientists and Data Engineers that deploys 260k+ CRM emails per month on the Salesforce Marketing Cloud and a portfolio of AI/ ML projects to bring together the power of data, technology, and creativity to build brands and unlock transformational and meaningful customer experiences for client accounts that include **Edelman Financial Engines, L’Oréal, AMC Theatres, SAS, UPS, Santander Bank, BMW, Circle and Veterans United** among others at **Performance Art**, a specialist creative-data advertising agency and division of **Interpublic Group (IPG)**.
               - Pitched, won and built a **Multi-Touch Attribution and Media Mix Model** for Edelman Financial Engines to score the impact of paid and owned media channels, distribute conversion credit accurately, double attribution accuracy and simulate media mixes that optimize conversions/ ROAS on media investments.
               - Pitched, won and built the **SAS Fandom Score** pilot, to algorithmically score music fans' fandom using Spotify data and social mining.
               - With DANCE, an AI product, I built a **Creative Optimization Model** to predict CRM creative performance before campaign deployment. 
@@ -100,7 +100,7 @@ content:
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
         sub_title: MULTIPLE PRO BONO (DATA SCIENTIST, ACCOUNT MANAGER, LEAD SCOPER)
-        caption: Apr 2020 - PRESENT (> 3 years 8 months) PRO BONO
+        caption: Apr 2020 - PRESENT (> 3 years 8 months)
         quote: >
          We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
         description: | # this will include new lines to allow paragraphs
@@ -113,7 +113,7 @@ content:
         link: https://shelfperks.com/
         link_text: shelfperks.com
         sub_title: DATA SCIENCE AND MACHINE LEARNING - CONSULTING HEAD
-        caption: Feb 2021 - Jan 2022 (1 year) CONTRACT
+        caption: Feb 2021 - Jan 2022 (1 year) 
         quote: >
          The Only Platform you need to run Retail.
         description: | # this will include new lines to allow paragraphs
@@ -127,7 +127,7 @@ content:
         link: https://www1.nyc.gov/assets/cto/#/
         link_text: nyc.gov/cto
         sub_title: NYC[x] DATA INNOVATION FELLOW
-        caption: Aug 2020 - Mar 2022 (1 year 8 months) PRO BONO
+        caption: Aug 2020 - Mar 2022 (1 year 8 months)
         quote: >
          We use technology, innovation, AI, design, research, policy, connectivity and collaboration to make NYC future ready.
         description: | # this will include new lines to allow paragraphs
@@ -142,7 +142,7 @@ content:
         link: https://www.bankbazaar.com/
         link_text: bankbazaar.com
         sub_title: SENIOR DATA SCIENTIST
-        caption: Feb 2016 - Feb 2018 (2 years 1 month) FULL TIME
+        caption: Feb 2016 - Feb 2018 (2 years 1 month)
         quote: >
          BankBazaar.com is the world's first neutral online marketplace for instant customized rate quotes on loans and credit cards. Shop for loans & cards just like you buy everything else now - online.
         description: | # this will include new lines to allow paragraphs
@@ -160,7 +160,7 @@ content:
         link: http://www.grandatos.com/
         link_text: grandatos.com
         sub_title: CHIEF DATA SCIENTIST
-        caption: Jun 2013 - Jan 2016 (2 years 8 months) FULL TIME
+        caption: Jun 2013 - Jan 2016 (2 years 8 months)
         quote: >
          Grandatos.com is a simple initiative driven by Escomm Group, aimed at delivering Analytics insights, hind-sights and fore-sights for everyday use for everybody.
         description: | # this will include new lines to allow paragraphs
@@ -175,7 +175,7 @@ content:
         link: https://www.ibm.com/services/consulting
         link_text: ibm.com
         sub_title: SOFTWARE ENGINEER
-        caption: Jun 2011 - May 2013 (2 years) FULL TIME
+        caption: Jun 2011 - May 2013 (2 years) 
         quote: >
          IBM Global Business Services® is your business acceleration partner to co-create change and scale impact across your business. Work alongside our experts to reap benefits from connected processes, AI and automation, and a hybrid cloud architecture.
         description: | # this will include new lines to allow paragraphs
