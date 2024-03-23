@@ -91,10 +91,10 @@ content:
       - layout: left
         title: |
          <img src="images/ipg.png" width="90" height="40">
-         Performance Art, Interpublic Group (IPG)
+         Interpublic Group (IPG)
         #title: | <img src="images/ipg.png" width="90" height="40"> Performance Art, Interpublic Group (IPG)
-        link: https://www.performanceart.com/
-        link_text: performanceart.com
+        link: https://www.interpublic.com/
+        link_text: interpublic.com
         sub_title: STAFF DATA SCIENTIST
         caption: Feb 2022 - PRESENT (> 2 year 2 months)
         quote: >
