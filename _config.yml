@@ -295,9 +295,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <img src="images/iimc.svg" width="80" height="80"> IIM Calcutta
+        title: <img src="images/iimc.svg" width="80" height="80"> EXECUTIVE PROGRAM IN GLOBAL BUSINESS MANAGEMENT (EPGBM)
         # caption: 
-        sub_title: EXECUTIVE PROGRAM IN GLOBAL BUSINESS MANAGEMENT (EPGBM)
+        sub_title: IIM Calcutta
         quote: >
           Indian Institute of Management Calcutta (IIM Calcutta or IIM-C) is a top business school in Asia located in Joka, Kolkata, India. It was the first Indian Institute of Management to be established, and has been recognized as an Institute of National Importance by the Government of India in 2017. 
         description: | # this will include new lines to allow paragraphs
@@ -310,9 +310,9 @@ content:
             - International Business
 
       - layout: left
-        title: <img src="images/au.svg" width="80" height="80"> College of Engineering Guindy, Anna University
+        title: <img src="images/au.svg" width="80" height="80"> MASTERS, INDUSTRIAL ENGINEERING
         # caption: 2009 - 2011
-        sub_title: MASTERS IN INDUSTRIAL ENGINEERING (M.E.)
+        sub_title: College of Engineering Guindy, Anna University
         quote: >
           College of Engineering, Guindy (CEG) is a public engineering college in Chennai, India and is Asia's oldest technical institution, founded in 1794. It is also the oldest technical institution to be established outside Europe.
         description: | # this will include new lines to allow paragraphs
