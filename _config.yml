@@ -295,7 +295,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <img src="images/iimc.svg" width="80" height="80"> Executive Program in Global Business Management (EPGBM)
+        title: <img src="images/iimc.svg" width="80" height="80"> | Executive Program in Global Business Management (EPGBM)
         # caption: 
         sub_title: IIM CALCUTTA
         quote: >
