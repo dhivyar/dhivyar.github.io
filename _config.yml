@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Dhivya Ravindran
-title: Staff Data Scientist at Interpublic Group (IPG) 🚀 | Microsoft Certified Azure Data Scientist | Advanced Analytics, ML, Generative AI
+title: Senior AI Scientist at Intuit 🚀 | Microsoft Certified Azure Data Scientist | Advanced Analytics, Machine Learning, LLMs, Generative AI
 email: dhivyaravindran@gmail.com
-Phone: +1 (929) 404-6826
+#Phone: +1 (929) 404-6826
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -54,7 +54,7 @@ about_profile_image: images/Prof.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Dhivya. I am a Microsoft-certified AI and ML Leader with over 10 years of full-time experience in Data Science, Machine Learning, AI, and Advanced Analytics. I have a proven track record in leading and growing high-performing data teams, backed by 3+ years of hands-on leadership experience. I have been successful in driving end-to-end data projects from scoping to building, and implementation, including A/B experimentation, monitoring, and maintenance. My key achievements involve spearheading the development of groundbreaking AI projects, such as a Creative Performance Prediction Tool using Deep Learning in Advertising, the world’s first Interest Rate Deviation Engine using Machine Learning in Banking, and delivering the City of New York’s first Block Sampling and Route Optimization Algorithms in four decades. 
   
-  My specialties include: <mark>Product Data Science</mark>, <mark>Marketing Data Science</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Fintech</mark>, <mark>Payments</mark>, <mark>Banking</mark>, <mark>Civictech</mark> and <mark>Start-ups</mark>
+  My specialties include: <mark>Product Data Science</mark>, <mark>Marketing Data Science</mark>, <mark>Fintech</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Payments</mark>, <mark>Banking</mark>, <mark>Civictech</mark> and <mark>Start-ups</mark>
 
 content:
   - title: Skills
@@ -89,7 +89,7 @@ content:
     content:
       - layout: left
         title: |
-         <img src="images/intuit.png" width="160" height="60">
+         <img src="images/intuit.png" width="280" height="80">
          Intuit
         #title: | <img src="images/ipg.png" width="90" height="40"> Performance Art, Interpublic Group (IPG)
         link: https://www.intuit.com/
@@ -103,7 +103,7 @@ content:
       
       - layout: left
         title: |
-         <img src="images/deel.png" width="90" height="60">
+         <img src="images/deel.png" width="110" height="60">
          Meijer (Through Deel)
         #title: | <img src="images/ipg.png" width="90" height="40"> Performance Art, Interpublic Group (IPG)
         link: https://www.meijer.com/
