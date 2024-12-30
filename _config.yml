@@ -91,7 +91,7 @@ content:
     content:
       - layout: left
         title: |
-         <img src="images/intuit.png" width="280" height="60">
+         <img src="images/intuit.png" width="280" height="57">
          Intuit
         #title: | <img src="images/ipg.png" width="90" height="40"> Performance Art, Interpublic Group (IPG)
         link: https://www.intuit.com/
