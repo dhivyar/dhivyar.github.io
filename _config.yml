@@ -64,7 +64,9 @@ content:
         description: |
           - **Programming Languages:** <mark>Python</mark> (<mark>Pandas</mark>, <mark>Scikit-Learn</mark>, <mark>Seaborn</mark>, <mark>Matplotlib</mark>, <mark>NumPy</mark>, <mark>SciPy</mark>, <mark>Jupyter</mark>, <mark>VS Code</mark>), <mark>R</mark> (<mark>R Studio</mark>, <mark>R Markdown</mark>, <mark>R Shiny</mark>)
           - **Machine Learning:** <mark>Linear Regression</mark>, <mark>Ridge/ Lasso</mark>, <mark>Logistic Regression</mark>, <mark>Decision Tree</mark>, <mark>Bagging</mark>, <mark>Random Forest</mark>, <mark>AdaBoost</mark>, <mark>Gradient Boosting Machine</mark>, <mark>XGBoost</mark>, <mark>LightGBM</mark>, <mark>CatBoost</mark>, <mark>k-NN</mark>, <mark>Clustering Techniques</mark>, <mark>Bayesian Belief Network</mark>, <mark>Markov Chains</mark>, <mark>Recommendation Engines</mark>
-          - **Deep Learning and GenAI:** <mark>Artificial Neural Networks</mark>, <mark>Convolutional Neural Networks</mark>, <mark>TensorFlow</mark>, <mark>Keras</mark>, <mark>NLP</mark>, <mark>NLP Sentiment Scoring</mark>, <mark>Latent Dirichlet Allocation</mark>, <mark>GANs</mark>, <mark>Transformers</mark>, <mark>Attention Mechanism</mark>
+          - **GenAI/ LLMs:** <mark>LLMs - OpenAI - GPT, Anthropic - Claude, Google - Gemini</mark>, <mark>Search & Retrieval - RAG, Advanced RAG</mark>, <mark>RAG Eval</mark>, <mark>Embedding Models</mark>, <mark>Vector Databases</mark>, <mark>Prompt Engineering</mark>, <mark>LLMOps</mark>, <mark>Transformers</mark>, <mark>Hugging Face Transformers</mark>, <mark>Attention Mechanism</mark>, <mark>Perplexity.AI</mark>
+          - **GenAI/ Image Models:** <mark>Midjourney</mark>, <mark>Copilot</mark>, <mark>GANs</mark>, <mark>Diffusion Models</mark> 
+          - **Deep Learning:** <mark>Artificial Neural Networks</mark>, <mark>Convolutional Neural Networks</mark>, <mark>TensorFlow</mark>, <mark>Keras</mark>, <mark>NLP</mark>, <mark>NLP Sentiment Scoring</mark>, <mark>Latent Dirichlet Allocation</mark>
           - **Data Engineering:** <mark>SQL</mark> (<mark>Workbench</mark>, <mark>SQL Server</mark>), <mark>ETL</mark>, <mark>Data Pipelines</mark>, <mark>FTP</mark>, <mark>API Integrations</mark>, <mark>Python SDKs</mark>, <mark>Apache Airflow</mark>
           - **Azure:** <mark>Azure AI Studio</mark>, <mark>Notebooks</mark>, <mark>Compute Instances</mark>, <mark>Blob Storage</mark>, <mark>Cognitive Services</mark>, <mark>MLOps</mark>
           - **GCP:** <mark>Vertex AI</mark>, <mark>Vertex AI Workbench</mark>, <mark>Compute Engine</mark>, <mark>Tensorboard</mark> 
@@ -89,7 +91,7 @@ content:
     content:
       - layout: left
         title: |
-         <img src="images/intuit.png" width="280" height="70">
+         <img src="images/intuit.png" width="280" height="65">
          Intuit
         #title: | <img src="images/ipg.png" width="90" height="40"> Performance Art, Interpublic Group (IPG)
         link: https://www.intuit.com/
@@ -104,7 +106,8 @@ content:
       - layout: left
         title: |
          <img src="images/deel.png" width="110" height="60">
-         \n Meijer (through Deel)
+         
+         Meijer (through Deel)
         #title: | <img src="images/ipg.png" width="90" height="40"> Performance Art, Interpublic Group (IPG)
         link: https://www.meijer.com/
         link_text: meijer.com
@@ -125,7 +128,7 @@ content:
         link: https://www.interpublic.com/
         link_text: interpublic.com
         sub_title: STAFF DATA SCIENTIST
-        caption: Feb 2022 - PRESENT (2 years 3 months)
+        caption: Feb 2022 - Apr 2024 (2 years 3 months)
         quote: >
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
