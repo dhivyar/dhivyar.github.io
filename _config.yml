@@ -87,7 +87,36 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    
+      - layout: left
+        title: |
+         <img src="images/intuit.png" width="90" height="40">
+         Meijer (Through Deel)
+        #title: | <img src="images/ipg.png" width="90" height="40"> Performance Art, Interpublic Group (IPG)
+        link: https://www.intuit.com/
+        link_text: intuit.com
+        sub_title: SENIOR AI SCIENTIST
+        caption: May 2024 - PRESENT (> 9 months)
+        quote: >
+         Helping brands around the world make the most effective work, in the most creative way.
+        description: | # this will include new lines to allow paragraphs
+            As a Senior AI Scientist, I build and evaluate RAG pipelines to deliver tax content at scale and velocity for Intuit's Consumer Group using AI.
+      
+      - layout: left
+        title: |
+         <img src="images/deel.png" width="90" height="40">
+         Intuit
+        #title: | <img src="images/ipg.png" width="90" height="40"> Performance Art, Interpublic Group (IPG)
+        link: https://www.meijer.com/
+        link_text: meijer.com
+        sub_title: LEAD DATA SCIENTIST
+        caption: Apr 2024 - Jul 2024 (4 months)
+        quote: >
+         Helping brands around the world make the most effective work, in the most creative way.
+        description: | # this will include new lines to allow paragraphs
+            As the Lead Data Scientist at Meijer, one of the largest retailers in the US (contracted through Deel), I was part of the Meijer RMN (Retail Media Network) team, which collaborates with CPGs and brands to place advertisements on Meijer's digital and in-store properties.
+             - Designed and built a Sales Attribution Model utilizing log and gamma distributions to measure campaign impact on in-store and online Sales.
+             - Researched and evaluated Google PAIR as a method to enable the Meijer RMN advertiser to deliver personalized and retargeted ads offsite to our audiences without relying on third-party cookies, preparing for a future without third-party cookie support.
+            
       - layout: left
         title: |
          <img src="images/ipg.png" width="90" height="40">
@@ -96,7 +125,7 @@ content:
         link: https://www.interpublic.com/
         link_text: interpublic.com
         sub_title: STAFF DATA SCIENTIST
-        caption: Feb 2022 - PRESENT (> 2 year 2 months)
+        caption: Feb 2022 - PRESENT (2 years 3 months)
         quote: >
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
@@ -119,7 +148,7 @@ content:
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
         sub_title: PRO BONO DATA SCIENTIST
-        caption: Apr 2020 - PRESENT (> 3 years 11 months)
+        caption: Apr 2020 - PRESENT (> 4 years 10 months)
         quote: >
          We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
         description: | # this will include new lines to allow paragraphs
