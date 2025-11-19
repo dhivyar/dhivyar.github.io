@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Prof.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Dhivya. I am a Microsoft-certified AI and ML Leader with over 10 years of full-time experience in Data Science, Machine Learning, AI, and Advanced Analytics. I have a proven track record in leading and growing high-performing data teams, backed by 3+ years of hands-on leadership experience. I have been successful in driving end-to-end data projects from scoping to building, and implementation, including A/B experimentation, monitoring, and maintenance. My key achievements involve spearheading the development of groundbreaking AI projects, such as a Creative Performance Prediction Tool using Deep Learning in Advertising, the world’s first Interest Rate Deviation Engine using Machine Learning in Banking, and delivering the City of New York’s first Block Sampling and Route Optimization Algorithms in four decades. 
+  Hi, my name is Dhivya. I am a Microsoft-certified AI and ML Scientist with extensive full-time experience in Data Science, Machine Learning, AI, and Advanced Analytics. I have a proven track record in leading and growing high-performing data teams, backed by 3+ years of hands-on leadership experience. I have been successful in driving end-to-end data projects from scoping to building, and implementation, including A/B experimentation, monitoring, and maintenance. My key achievements involve spearheading the development of groundbreaking AI projects, such as a Creative Performance Prediction Tool using Deep Learning in Advertising, the world’s first Interest Rate Deviation Engine using Machine Learning in Banking, and delivering the City of New York’s first Block Sampling and Route Optimization Algorithms in four decades. 
   
   My specialties include: <mark>Product Data Science</mark>, <mark>Marketing Data Science</mark>, <mark>Fintech</mark>, <mark>Marketplaces</mark>, <mark>e-Commerce</mark>, <mark>Retail</mark>, <mark>Payments</mark>, <mark>Banking</mark>, <mark>Civictech</mark> and <mark>Start-ups</mark>
 
@@ -205,36 +205,6 @@ content:
             - Enhanced **customer data assets** by mining unstructured data sources. The data were classified into different types of transactions using **Natural Language Processing** techniques. 
             - Built **Credit Risk Engines using Machine Learning Algorithms** for unsecured credit products that will assess the credit risk of serious delinquency associated with a customer for a particular credit product. 
             - Built a **Product Recommender Engine** that models on the customers’ historic online behavior data to predict the customers that had the highest propensity to apply for a credit card.
-
-      - layout: left
-        title: <img src="images/grandatos.png" width="80" height="80"> Grandatos
-        link: http://www.grandatos.com/
-        link_text: grandatos.com
-        sub_title: CHIEF DATA SCIENTIST
-        caption: Jun 2013 - Jan 2016 (2 years 8 months)
-        quote: >
-         Grandatos.com is a simple initiative driven by Escomm Group, aimed at delivering Analytics insights, hind-sights and fore-sights for everyday use for everybody.
-        description: | # this will include new lines to allow paragraphs
-            As a Chief Data Scientist, my job role had me pitch, win and manage Analytics projects for multiple clients.
-            - Built **targeted segments with personalized content for multiple campaigns** with unique threshold CTRs and the overall conversions improved by 20%.
-            - Built a **Marketing Response Model that predicts the conversion of potential customers** by employing direct email marketing.
-            - Developed **Twitter Analytics** models which help understand Twitter followers, analyze competitors' audience and follow #hashtag campaigns.
-            - Led the sales effort from Technical side by **co-presenting sales pitches** with customized data solutions and strategies.
-            
-      - layout: left
-        title: <img src="images/ibm.jpeg" width="60" height="40"> IBM Global Business Services
-        link: https://www.ibm.com/services/consulting
-        link_text: ibm.com
-        sub_title: SOFTWARE ENGINEER
-        caption: Jun 2011 - May 2013 (2 years) 
-        quote: >
-         IBM Global Business Services® is your business acceleration partner to co-create change and scale impact across your business. Work alongside our experts to reap benefits from connected processes, AI and automation, and a hybrid cloud architecture.
-        description: | # this will include new lines to allow paragraphs
-            This was my first job after college. As a Software Engineer, I drove the effort in analyzing and reporting software quality for a Sales Automation tool built for **AT&T**.
-            - Appointed as the **SPOC** for all VoIP (Voice over Internet Protocol) related sales flow projects for both new and existing customers.
-            - Collaborated with **SEs and Developers** from multiple organizations, multiple cities and multiple time zones.
-            - Exceeded predicted targets for all projects and **achieved recognition for having 0 red-flagged projects**.
-            - Provided client training for Software Engineers on how to seamlessly transition from IBMers to IBMers partnering with AT&T.
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
