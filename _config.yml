@@ -97,7 +97,7 @@ content:
         link: https://www.intuit.com/
         link_text: intuit.com
         sub_title: SENIOR AI SCIENTIST
-        caption: May 2024 - PRESENT (> 9 months)
+        caption: May 2024 - PRESENT (> 1 year 8 months)
         quote: >
                   The global financial technology platform that gives you the power to prosper. Products - TurboTax, Credit Karma, QuickBooks, Mailchimp
         description: | # this will include new lines to allow paragraphs
@@ -112,7 +112,7 @@ content:
         link: https://www.meijer.com/
         link_text: meijer.com
         sub_title: LEAD DATA SCIENTIST
-        caption: Apr 2024 - May 2024 (2 months)
+        caption: Feb 2024 - May 2024 (4 months)
         quote: >
          The Midwestern supercenter chain with 500 supercenters, grocery stores, neighborhood markets, and express locations across six states (MI, IL, IN, KY, OH, WI).
         description: | # this will include new lines to allow paragraphs
@@ -128,7 +128,7 @@ content:
         link: https://www.interpublic.com/
         link_text: interpublic.com
         sub_title: STAFF DATA SCIENTIST
-        caption: Feb 2022 - Apr 2024 (2 years 3 months)
+        caption: Feb 2022 - Feb 2024 (2 years 1 month)
         quote: >
          Helping brands around the world make the most effective work, in the most creative way.
         description: | # this will include new lines to allow paragraphs
@@ -151,28 +151,14 @@ content:
         link: https://www.usdigitalresponse.org/
         link_text: usdigitalresponse.org
         sub_title: PRO BONO DATA SCIENTIST
-        caption: Apr 2020 - PRESENT (> 4 years 10 months)
+        caption: Apr 2020 - Apr 2025 (5 years 1 months)
         quote: >
          We place experienced, pro-bono technologists to work with government and organizations responding to moments of crisis, to quickly deliver critical services and infrastructure that support the needs of the public. We’re non-partisan, fast, and free.
         description: | # this will include new lines to allow paragraphs
-            - As an Advisor, I mentored and advised Project Leads on what it takes to deliver data and technology projects for Governments, on how to navigate bureaucracies, and on how to manage constraints and deliver tightly scoped projects.
+            - As a Pro- Bono Advisor, I mentored and advised Project Leads on what it takes to deliver data and technology projects for Governments, on how to navigate bureaucracies, and on how to manage constraints and deliver tightly scoped projects.
             - As a Pro- Bono Data Scientist, I built a **first-of-its-kind immigrant services directory** that centralizes services for 3 million immigrants living in **Los Angeles County.**
             - As the Account Manager and Lead Scoper, I was involved with the creation of the technical scoping documents, establishment of strong relationships with the partners and placement of Product teams (Engineers, PMs, Designers and UX Researchers) for the City of Syracuse' Innovation and Data Office, the City of St. Louis' Department of Home Services and the City of St. Louis' Elections Office.
-
-      - layout: left
-        title: <img src="images/shelfperks_logo.svg" width="100" height="60"> Shelfperks.Com
-        link: https://shelfperks.com/
-        link_text: shelfperks.com
-        sub_title: DATA SCIENCE AND MACHINE LEARNING LEAD
-        caption: Feb 2021 - Jan 2022 (1 year) 
-        quote: >
-         The Only Platform you need to run Retail.
-        description: | # this will include new lines to allow paragraphs
-            As the Data Science and Machine Learning Lead, I consulted at multiple data touchpoints within a San Jose, California-based retail startup- from Marketing to Product.
-            - Strategized and built a B2B marketing **small business leads database** with near-ideal accuracy using Google Places API and built a rule engine to weed out B2B leads that have limited propensity to convert.
-            - Built market insights to curate the marketing strategy for different customer segments in different geographies. Studied **27 verticals within the retail industry** and identified new growth segments for the retail startup.
-            - Strategized **merchant and validation DB** rules to sanitize and standardize product data (including the product category, sub-category, product EAN/ UPC barcode, product name, description, image, etc) for seamless onboarding of new merchants and new products for existing merchants. 
-          
+        
       - layout: left
         title: <img src="images/oti.svg" width="100" height="60"> City of New York
         link: https://www1.nyc.gov/assets/cto/#/
