@@ -101,7 +101,10 @@ content:
         quote: >
                   The global financial technology platform that gives you the power to prosper. Products - TurboTax, Credit Karma, QuickBooks, Mailchimp
         description: | # this will include new lines to allow paragraphs
-            As a Senior AI Scientist, I build and evaluate RAG pipelines to deliver tax content at scale and velocity for Intuit's Consumer Group using AI.
+           As a Senior AI Scientist at Intuit, I’m part of the Consumer Group AI team, responsible for delivering AI, Agentic AI, and ML experiences at scale.
+            - Developed and implemented agentic AI experiences that maximized key outcomes and strategic opportunities for tax filers using TurboTax.
+            - Built and evaluated RAG pipelines to deliver tax content at scale and velocity using LLM-driven architectures.
+            - Engineered an AI-powered solution that streamlined the tax content development process, significantly reducing the time-to-market for new tax laws.
       
       - layout: left
         title: |
